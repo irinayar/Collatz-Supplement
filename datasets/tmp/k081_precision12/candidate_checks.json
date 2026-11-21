@@ -1,0 +1,442 @@
+[
+  {
+    "index": 106,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 106,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 141,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 141,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 142,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 142,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 143,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 143,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 182,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 182,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 183,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 183,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 184,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 184,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 185,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 185,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 187,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 187,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 212,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 212,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 213,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 213,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 214,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 214,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 215,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 215,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 217,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 217,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 247,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 247,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 248,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 248,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 249,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 249,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 250,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 250,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 251,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 251,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 252,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 252,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 255,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 255,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 288,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 288,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 289,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 289,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 290,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 290,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 291,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 291,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 292,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 292,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 293,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 293,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 295,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 295,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 296,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 296,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 298,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 298,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 300,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 300,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 325,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 325,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 326,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 326,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 327,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 327,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 328,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 328,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 329,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 329,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 330,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 330,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 331,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 331,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 332,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 332,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 333,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 333,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 334,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 334,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 335,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 335,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 337,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 337,
+    "side": "hi",
+    "status": "nonintegral"
+  },
+  {
+    "index": 339,
+    "side": "lo",
+    "status": "nonintegral"
+  },
+  {
+    "index": 339,
+    "side": "hi",
+    "status": "nonintegral"
+  }
+]

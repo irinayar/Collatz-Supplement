@@ -1,0 +1,1718 @@
+{
+  "j": 42,
+  "n": 251,
+  "source_endpoint": 2,
+  "source_odd": 22,
+  "smaller_partner": 2,
+  "partner_odd": 21,
+  "all_smaller_origins": [
+    {
+      "origin": 1,
+      "endpoint": 1,
+      "odd": 21
+    },
+    {
+      "origin": 2,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 3,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 4,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 5,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 6,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 7,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 8,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 9,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 10,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 11,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 12,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 13,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 14,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 15,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 16,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 17,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 18,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 19,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 20,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 21,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 22,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 23,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 24,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 25,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 26,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 27,
+      "endpoint": 1367,
+      "odd": 30
+    },
+    {
+      "origin": 28,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 29,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 30,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 31,
+      "endpoint": 4616,
+      "odd": 31
+    },
+    {
+      "origin": 32,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 33,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 34,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 35,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 36,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 37,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 38,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 39,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 40,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 41,
+      "endpoint": 2051,
+      "odd": 30
+    },
+    {
+      "origin": 42,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 43,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 44,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 45,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 46,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 47,
+      "endpoint": 2308,
+      "odd": 30
+    },
+    {
+      "origin": 48,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 49,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 50,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 51,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 52,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 53,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 54,
+      "endpoint": 911,
+      "odd": 29
+    },
+    {
+      "origin": 55,
+      "endpoint": 911,
+      "odd": 29
+    },
+    {
+      "origin": 56,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 57,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 58,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 59,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 60,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 61,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 62,
+      "endpoint": 3077,
+      "odd": 30
+    },
+    {
+      "origin": 63,
+      "endpoint": 3077,
+      "odd": 30
+    },
+    {
+      "origin": 64,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 65,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 66,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 67,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 68,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 69,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 70,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 71,
+      "endpoint": 1154,
+      "odd": 29
+    },
+    {
+      "origin": 72,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 73,
+      "endpoint": 3644,
+      "odd": 30
+    },
+    {
+      "origin": 74,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 75,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 76,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 77,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 78,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 79,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 80,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 81,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 82,
+      "endpoint": 1367,
+      "odd": 29
+    },
+    {
+      "origin": 83,
+      "endpoint": 1367,
+      "odd": 29
+    },
+    {
+      "origin": 84,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 85,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 86,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 87,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 88,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 89,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 90,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 91,
+      "endpoint": 488,
+      "odd": 28
+    },
+    {
+      "origin": 92,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 93,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 94,
+      "endpoint": 4616,
+      "odd": 30
+    },
+    {
+      "origin": 95,
+      "endpoint": 4616,
+      "odd": 30
+    },
+    {
+      "origin": 96,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 97,
+      "endpoint": 1619,
+      "odd": 29
+    },
+    {
+      "origin": 98,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 99,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 100,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 101,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 102,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 103,
+      "endpoint": 61,
+      "odd": 26
+    },
+    {
+      "origin": 104,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 105,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 106,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 107,
+      "endpoint": 577,
+      "odd": 28
+    },
+    {
+      "origin": 108,
+      "endpoint": 1822,
+      "odd": 29
+    },
+    {
+      "origin": 109,
+      "endpoint": 1822,
+      "odd": 29
+    },
+    {
+      "origin": 110,
+      "endpoint": 1822,
+      "odd": 29
+    },
+    {
+      "origin": 111,
+      "endpoint": 8,
+      "odd": 24
+    },
+    {
+      "origin": 112,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 113,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 114,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 115,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 116,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 117,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 118,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 119,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 120,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 121,
+      "endpoint": 650,
+      "odd": 28
+    },
+    {
+      "origin": 122,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 123,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 124,
+      "endpoint": 2051,
+      "odd": 29
+    },
+    {
+      "origin": 125,
+      "endpoint": 2051,
+      "odd": 29
+    },
+    {
+      "origin": 126,
+      "endpoint": 2051,
+      "odd": 29
+    },
+    {
+      "origin": 127,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 128,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 129,
+      "endpoint": 719,
+      "odd": 28
+    },
+    {
+      "origin": 130,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 131,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 132,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 133,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 134,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 135,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 136,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 137,
+      "endpoint": 244,
+      "odd": 27
+    },
+    {
+      "origin": 138,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 139,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 140,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 141,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 142,
+      "endpoint": 2308,
+      "odd": 29
+    },
+    {
+      "origin": 143,
+      "endpoint": 2308,
+      "odd": 29
+    },
+    {
+      "origin": 144,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 145,
+      "endpoint": 2429,
+      "odd": 29
+    },
+    {
+      "origin": 146,
+      "endpoint": 2429,
+      "odd": 29
+    },
+    {
+      "origin": 147,
+      "endpoint": 2429,
+      "odd": 29
+    },
+    {
+      "origin": 148,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 149,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 150,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 151,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 152,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 153,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 154,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 155,
+      "endpoint": 92,
+      "odd": 26
+    },
+    {
+      "origin": 156,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 157,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 158,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 159,
+      "endpoint": 1,
+      "odd": 21
+    },
+    {
+      "origin": 160,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 161,
+      "endpoint": 866,
+      "odd": 28
+    },
+    {
+      "origin": 162,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 163,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 164,
+      "endpoint": 911,
+      "odd": 28
+    },
+    {
+      "origin": 165,
+      "endpoint": 911,
+      "odd": 28
+    },
+    {
+      "origin": 166,
+      "endpoint": 911,
+      "odd": 28
+    },
+    {
+      "origin": 167,
+      "endpoint": 4,
+      "odd": 23
+    },
+    {
+      "origin": 168,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 169,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 170,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 171,
+      "endpoint": 319,
+      "odd": 27
+    },
+    {
+      "origin": 172,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 173,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 174,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 175,
+      "endpoint": 35,
+      "odd": 25
+    },
+    {
+      "origin": 176,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 177,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 178,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 179,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 180,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 181,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 182,
+      "endpoint": 325,
+      "odd": 27
+    },
+    {
+      "origin": 183,
+      "endpoint": 325,
+      "odd": 27
+    },
+    {
+      "origin": 184,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 185,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 186,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 187,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 188,
+      "endpoint": 3077,
+      "odd": 29
+    },
+    {
+      "origin": 189,
+      "endpoint": 3077,
+      "odd": 29
+    },
+    {
+      "origin": 190,
+      "endpoint": 3077,
+      "odd": 29
+    },
+    {
+      "origin": 191,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 192,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 193,
+      "endpoint": 1079,
+      "odd": 28
+    },
+    {
+      "origin": 194,
+      "endpoint": 1079,
+      "odd": 28
+    },
+    {
+      "origin": 195,
+      "endpoint": 1079,
+      "odd": 28
+    },
+    {
+      "origin": 196,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 197,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 198,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 199,
+      "endpoint": 1079,
+      "odd": 28
+    },
+    {
+      "origin": 200,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 201,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 202,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 203,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 204,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 205,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 206,
+      "endpoint": 122,
+      "odd": 26
+    },
+    {
+      "origin": 207,
+      "endpoint": 122,
+      "odd": 26
+    },
+    {
+      "origin": 208,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 209,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 210,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 211,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 212,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 213,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 214,
+      "endpoint": 1154,
+      "odd": 28
+    },
+    {
+      "origin": 215,
+      "endpoint": 1154,
+      "odd": 28
+    },
+    {
+      "origin": 216,
+      "endpoint": 3644,
+      "odd": 29
+    },
+    {
+      "origin": 217,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 218,
+      "endpoint": 3644,
+      "odd": 29
+    },
+    {
+      "origin": 219,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 220,
+      "endpoint": 3644,
+      "odd": 29
+    },
+    {
+      "origin": 221,
+      "endpoint": 3644,
+      "odd": 29
+    },
+    {
+      "origin": 222,
+      "endpoint": 5,
+      "odd": 23
+    },
+    {
+      "origin": 223,
+      "endpoint": 5,
+      "odd": 23
+    },
+    {
+      "origin": 224,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 225,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 226,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 227,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 228,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 229,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 230,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 231,
+      "endpoint": 425,
+      "odd": 27
+    },
+    {
+      "origin": 232,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 233,
+      "endpoint": 46,
+      "odd": 25
+    },
+    {
+      "origin": 234,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 235,
+      "endpoint": 425,
+      "odd": 27
+    },
+    {
+      "origin": 236,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 237,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 238,
+      "endpoint": 1,
+      "odd": 19
+    },
+    {
+      "origin": 239,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 240,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 241,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 242,
+      "endpoint": 433,
+      "odd": 27
+    },
+    {
+      "origin": 243,
+      "endpoint": 433,
+      "odd": 27
+    },
+    {
+      "origin": 244,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 245,
+      "endpoint": 1,
+      "odd": 18
+    },
+    {
+      "origin": 246,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 247,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 248,
+      "endpoint": 1367,
+      "odd": 28
+    },
+    {
+      "origin": 249,
+      "endpoint": 1,
+      "odd": 20
+    },
+    {
+      "origin": 250,
+      "endpoint": 1367,
+      "odd": 28
+    }
+  ],
+  "matching_smaller_origins": [
+    {
+      "origin": 2,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 3,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 7,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 8,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 9,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 10,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 12,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 13,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 17,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 22,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 23,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 28,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 29,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 30,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 32,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 36,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 37,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 38,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 39,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 40,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 42,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 48,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 49,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 50,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 51,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 52,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 53,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 65,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 66,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 67,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 68,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 69,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 70,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 75,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 86,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 87,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 88,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 89,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 90,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 92,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 93,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 112,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 114,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 115,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 116,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 117,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 118,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 119,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 120,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 122,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 123,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 127,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 128,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 144,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 148,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 149,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 152,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 153,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 154,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 156,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 157,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 158,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 160,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 162,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 163,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 168,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 169,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 170,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 192,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 196,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 197,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 198,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 200,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 202,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 203,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 204,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 205,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 208,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 209,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 210,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 211,
+      "endpoint": 2,
+      "odd": 20
+    },
+    {
+      "origin": 212,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 213,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 217,
+      "endpoint": 2,
+      "odd": 19
+    },
+    {
+      "origin": 219,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 225,
+      "endpoint": 2,
+      "odd": 21
+    },
+    {
+      "origin": 226,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 227,
+      "endpoint": 2,
+      "odd": 18
+    },
+    {
+      "origin": 239,
+      "endpoint": 2,
+      "odd": 21
+    }
+  ],
+  "extra_odd_origin_bound": 93,
+  "lift": 13194139533563,
+  "lift_endpoint": 94143178829,
+  "lift_odd": 22,
+  "primitive_at_original": false,
+  "primitive_at_lift": false,
+  "nonminimal_original": true,
+  "minimal_lift_by_arbitrary_depth_theorem": true,
+  "proof": "Equal-count lifted partner pulls back by3B to a positive smaller original partner; extra-count pulls back byB to a positive endpoint2 origin <=93. Neither exists. Large-origin primitive theorem excludes every other smaller partner.",
+  "seconds": 0.0,
+  "inverse_attempt": "Stopped safely at250000 frontier cap; incomplete and not used in proof; replaced by affine bound93"
+}

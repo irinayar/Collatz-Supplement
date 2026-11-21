@@ -1,0 +1,3 @@
+{'j': 3, 'K': 25, 'normalized_counts': {12: 7, 14: 24, 16: 24}, 'new_cylinders': 17, 'local_new_parameter_density': '289/93312', 'checks': 68}
+{'j': 4, 'K': 9, 'normalized_counts': {12: 3, 14: 7, 16: 24}, 'new_cylinders': 21, 'local_new_parameter_density': '493/69984', 'checks': 84}
+{'j': 5, 'K': 5, 'normalized_counts': {12: 3, 14: 7, 16: 24}, 'new_cylinders': 21, 'local_new_parameter_density': '2233/279936', 'checks': 84}

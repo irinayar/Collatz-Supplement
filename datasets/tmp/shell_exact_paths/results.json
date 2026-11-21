@@ -1,0 +1,17 @@
+{
+  "profiles": 256,
+  "shell_itineraries": 27,
+  "total_cells": 6912,
+  "height_nonempty": 648,
+  "height_but_no_exact": 344,
+  "local_edge_chains": 826,
+  "spurious_local_chains": 522,
+  "exact_cells": 304,
+  "actual_paths": 1230,
+  "residue_checks": 1230,
+  "residue_extra_cuts": 0,
+  "shell_return_paths": 415,
+  "integer_two_run_cycles": 0,
+  "seconds": 0.09399999998277053,
+  "v10_unchanged": true
+}

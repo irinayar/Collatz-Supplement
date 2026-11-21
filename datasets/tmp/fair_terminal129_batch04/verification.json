@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "integer_gap_only": 0,
+  "new_prune_leaves": 37113,
+  "new_unique_states": 100000,
+  "level_new_nodes": {
+    "92": 9088,
+    "91": 9088,
+    "90": 9088,
+    "89": 9088,
+    "88": 9088,
+    "87": 9088,
+    "86": 9088,
+    "85": 9088,
+    "84": 9120,
+    "83": 9088,
+    "82": 9088
+  },
+  "previous_exhausted_levels_unchanged": true,
+  "v9_unchanged": true
+}

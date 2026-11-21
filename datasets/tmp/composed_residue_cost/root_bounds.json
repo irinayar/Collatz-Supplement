@@ -1,0 +1,398 @@
+[
+  {
+    "index": 187,
+    "z": 32959306498,
+    "k": 38,
+    "r": 81,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 300,
+    "z": 15432249586,
+    "k": 38,
+    "r": 71,
+    "d12": 9,
+    "d14_clipped": 11,
+    "excluded": false
+  },
+  {
+    "index": 339,
+    "z": 13717555186,
+    "k": 38,
+    "r": 68,
+    "d12": 10,
+    "d14_clipped": 10,
+    "excluded": false
+  },
+  {
+    "index": 106,
+    "z": 20857061146,
+    "k": 39,
+    "r": 87,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 143,
+    "z": 27809414860,
+    "k": 39,
+    "r": 85,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 185,
+    "z": 37079219812,
+    "k": 39,
+    "r": 83,
+    "d12": 11,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 217,
+    "z": 32959306498,
+    "k": 39,
+    "r": 80,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 255,
+    "z": 19531440886,
+    "k": 39,
+    "r": 76,
+    "d12": 10,
+    "d14_clipped": 12,
+    "excluded": false
+  },
+  {
+    "index": 298,
+    "z": 17361280786,
+    "k": 39,
+    "r": 73,
+    "d12": 11,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 337,
+    "z": 15432249586,
+    "k": 39,
+    "r": 70,
+    "d12": 9,
+    "d14_clipped": 11,
+    "excluded": false
+  },
+  {
+    "index": 141,
+    "z": 31285591720,
+    "k": 40,
+    "r": 87,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 142,
+    "z": 20857061146,
+    "k": 40,
+    "r": 86,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 184,
+    "z": 27809414860,
+    "k": 40,
+    "r": 84,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 215,
+    "z": 37079219812,
+    "k": 40,
+    "r": 82,
+    "d12": 11,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 251,
+    "z": 49438959748,
+    "k": 40,
+    "r": 80,
+    "d12": 13,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 252,
+    "z": 32959306498,
+    "k": 40,
+    "r": 79,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 295,
+    "z": 29297161330,
+    "k": 40,
+    "r": 76,
+    "d12": 11,
+    "d14_clipped": 12,
+    "excluded": false
+  },
+  {
+    "index": 296,
+    "z": 19531440886,
+    "k": 40,
+    "r": 75,
+    "d12": 10,
+    "d14_clipped": 12,
+    "excluded": false
+  },
+  {
+    "index": 334,
+    "z": 26041921180,
+    "k": 40,
+    "r": 73,
+    "d12": 11,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 335,
+    "z": 17361280786,
+    "k": 40,
+    "r": 72,
+    "d12": 11,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 182,
+    "z": 31285591720,
+    "k": 41,
+    "r": 86,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 183,
+    "z": 20857061146,
+    "k": 41,
+    "r": 85,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 214,
+    "z": 27809414860,
+    "k": 41,
+    "r": 83,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 250,
+    "z": 37079219812,
+    "k": 41,
+    "r": 81,
+    "d12": 11,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 292,
+    "z": 49438959748,
+    "k": 41,
+    "r": 79,
+    "d12": 13,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 293,
+    "z": 32959306498,
+    "k": 41,
+    "r": 78,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 331,
+    "z": 43945741996,
+    "k": 41,
+    "r": 76,
+    "d12": 13,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 332,
+    "z": 29297161330,
+    "k": 41,
+    "r": 75,
+    "d12": 11,
+    "d14_clipped": 12,
+    "excluded": false
+  },
+  {
+    "index": 333,
+    "z": 19531440886,
+    "k": 41,
+    "r": 74,
+    "d12": 10,
+    "d14_clipped": 12,
+    "excluded": false
+  },
+  {
+    "index": 212,
+    "z": 31285591720,
+    "k": 42,
+    "r": 85,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 213,
+    "z": 20857061146,
+    "k": 42,
+    "r": 84,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 249,
+    "z": 27809414860,
+    "k": 42,
+    "r": 82,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 291,
+    "z": 37079219812,
+    "k": 42,
+    "r": 80,
+    "d12": 11,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 329,
+    "z": 49438959748,
+    "k": 42,
+    "r": 78,
+    "d12": 13,
+    "d14_clipped": 14,
+    "excluded": false
+  },
+  {
+    "index": 330,
+    "z": 32959306498,
+    "k": 42,
+    "r": 77,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 247,
+    "z": 31285591720,
+    "k": 43,
+    "r": 84,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 248,
+    "z": 20857061146,
+    "k": 43,
+    "r": 83,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 290,
+    "z": 27809414860,
+    "k": 43,
+    "r": 81,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 328,
+    "z": 37079219812,
+    "k": 43,
+    "r": 79,
+    "d12": 11,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 288,
+    "z": 31285591720,
+    "k": 44,
+    "r": 83,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 289,
+    "z": 20857061146,
+    "k": 44,
+    "r": 82,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  {
+    "index": 327,
+    "z": 27809414860,
+    "k": 44,
+    "r": 80,
+    "d12": 13,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 325,
+    "z": 31285591720,
+    "k": 45,
+    "r": 82,
+    "d12": 10,
+    "d14_clipped": 13,
+    "excluded": false
+  },
+  {
+    "index": 326,
+    "z": 20857061146,
+    "k": 45,
+    "r": 81,
+    "d12": 8,
+    "d14_clipped": 9,
+    "excluded": false
+  }
+]

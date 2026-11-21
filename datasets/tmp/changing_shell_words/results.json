@@ -1,0 +1,51 @@
+{
+  "block_cells": 304,
+  "source_states": 1230,
+  "word_cells": 804,
+  "source_prefix_checks": 1735,
+  "maximum_blocks": 5,
+  "no_cycles": true,
+  "depth_source_counts": {
+    "1": 1230,
+    "2": 375,
+    "3": 108,
+    "4": 19,
+    "5": 3
+  },
+  "depth_changing_shell_counts": {
+    "1": 815,
+    "2": 337,
+    "3": 106,
+    "4": 19,
+    "5": 3
+  },
+  "maximal_chains": [
+    [
+      4039,
+      5113,
+      4315,
+      4097,
+      2305,
+      1297
+    ],
+    [
+      5385,
+      6817,
+      3835,
+      4855,
+      3073,
+      1729
+    ],
+    [
+      6059,
+      5113,
+      4315,
+      4097,
+      2305,
+      1297
+    ]
+  ],
+  "elementary_steps": 10821,
+  "seconds": 0.01600000000325963,
+  "v10_unchanged": true
+}

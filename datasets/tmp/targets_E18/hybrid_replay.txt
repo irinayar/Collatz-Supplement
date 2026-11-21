@@ -1,0 +1,1 @@
+{'H_max': 12, 'shadow_and_reciprocal_checks': 98304, 'status': 'passed'}

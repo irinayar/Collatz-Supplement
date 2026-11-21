@@ -1,0 +1,26 @@
+{
+  "fixed_baseline_state_counts": {
+    "eligible": 18498,
+    "cut10": 7460,
+    "cut12": 12311,
+    "additional12": 4851,
+    "lost": 0,
+    "additional_above_five": 4358
+  },
+  "common_search_source_verified": true,
+  "combined_calls": 44088,
+  "five_even_checks": [
+    769,
+    332
+  ],
+  "reduction_percent": 56.827048114434334,
+  "single_run_seconds": [
+    1.2660000000032596,
+    1.0939999999827705
+  ],
+  "table_build_seconds": 0.9679999999934807,
+  "table_file_bytes": [
+    551153,
+    5116487
+  ]
+}

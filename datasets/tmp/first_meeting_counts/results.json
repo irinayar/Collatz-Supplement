@@ -1,0 +1,1746 @@
+{
+  "N": 4096,
+  "depth": 128,
+  "totals": {
+    "surplus": 42,
+    "same_only": 87,
+    "lower_only": 0
+  },
+  "first_same_only": {
+    "n": 15,
+    "j": 6,
+    "y": 20,
+    "a": 4,
+    "kind": "same_only",
+    "partners_min_by_count": {
+      "4": 14
+    },
+    "H_exact": 4,
+    "P_num": 1280,
+    "P_den": 1215
+  },
+  "first_lower_only": null,
+  "records": [
+    {
+      "n": 15,
+      "j": 6,
+      "y": 20,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 14
+      },
+      "H_exact": 4,
+      "P_num": 1280,
+      "P_den": 1215
+    },
+    {
+      "n": 79,
+      "j": 6,
+      "y": 101,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 78
+      },
+      "H_exact": 4,
+      "P_num": 6464,
+      "P_den": 6399
+    },
+    {
+      "n": 143,
+      "j": 6,
+      "y": 182,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 47,
+        "4": 142
+      },
+      "H_exact": 5,
+      "P_num": 11648,
+      "P_den": 11583
+    },
+    {
+      "n": 207,
+      "j": 6,
+      "y": 263,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 206
+      },
+      "H_exact": 4,
+      "P_num": 16832,
+      "P_den": 16767
+    },
+    {
+      "n": 271,
+      "j": 6,
+      "y": 344,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 270
+      },
+      "H_exact": 4,
+      "P_num": 22016,
+      "P_den": 21951
+    },
+    {
+      "n": 335,
+      "j": 6,
+      "y": 425,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 111,
+        "4": 334
+      },
+      "H_exact": 5,
+      "P_num": 27200,
+      "P_den": 27135
+    },
+    {
+      "n": 399,
+      "j": 6,
+      "y": 506,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 398
+      },
+      "H_exact": 4,
+      "P_num": 32384,
+      "P_den": 32319
+    },
+    {
+      "n": 463,
+      "j": 6,
+      "y": 587,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 462
+      },
+      "H_exact": 4,
+      "P_num": 37568,
+      "P_den": 37503
+    },
+    {
+      "n": 527,
+      "j": 6,
+      "y": 668,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 175,
+        "4": 526
+      },
+      "H_exact": 5,
+      "P_num": 42752,
+      "P_den": 42687
+    },
+    {
+      "n": 591,
+      "j": 6,
+      "y": 749,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 590
+      },
+      "H_exact": 4,
+      "P_num": 47936,
+      "P_den": 47871
+    },
+    {
+      "n": 655,
+      "j": 6,
+      "y": 830,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 654
+      },
+      "H_exact": 4,
+      "P_num": 53120,
+      "P_den": 53055
+    },
+    {
+      "n": 719,
+      "j": 6,
+      "y": 911,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 239,
+        "4": 718
+      },
+      "H_exact": 5,
+      "P_num": 58304,
+      "P_den": 58239
+    },
+    {
+      "n": 783,
+      "j": 6,
+      "y": 992,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 782
+      },
+      "H_exact": 4,
+      "P_num": 63488,
+      "P_den": 63423
+    },
+    {
+      "n": 847,
+      "j": 6,
+      "y": 1073,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 846
+      },
+      "H_exact": 4,
+      "P_num": 68672,
+      "P_den": 68607
+    },
+    {
+      "n": 911,
+      "j": 6,
+      "y": 1154,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 303,
+        "4": 910
+      },
+      "H_exact": 5,
+      "P_num": 73856,
+      "P_den": 73791
+    },
+    {
+      "n": 975,
+      "j": 6,
+      "y": 1235,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 974
+      },
+      "H_exact": 4,
+      "P_num": 79040,
+      "P_den": 78975
+    },
+    {
+      "n": 1039,
+      "j": 6,
+      "y": 1316,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1038
+      },
+      "H_exact": 4,
+      "P_num": 84224,
+      "P_den": 84159
+    },
+    {
+      "n": 1103,
+      "j": 6,
+      "y": 1397,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 367,
+        "4": 1102
+      },
+      "H_exact": 5,
+      "P_num": 89408,
+      "P_den": 89343
+    },
+    {
+      "n": 1167,
+      "j": 6,
+      "y": 1478,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1166
+      },
+      "H_exact": 4,
+      "P_num": 94592,
+      "P_den": 94527
+    },
+    {
+      "n": 1231,
+      "j": 6,
+      "y": 1559,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1230
+      },
+      "H_exact": 4,
+      "P_num": 99776,
+      "P_den": 99711
+    },
+    {
+      "n": 1295,
+      "j": 6,
+      "y": 1640,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 431,
+        "4": 1294
+      },
+      "H_exact": 5,
+      "P_num": 104960,
+      "P_den": 104895
+    },
+    {
+      "n": 1359,
+      "j": 6,
+      "y": 1721,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1358
+      },
+      "H_exact": 4,
+      "P_num": 110144,
+      "P_den": 110079
+    },
+    {
+      "n": 1423,
+      "j": 6,
+      "y": 1802,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1422
+      },
+      "H_exact": 4,
+      "P_num": 115328,
+      "P_den": 115263
+    },
+    {
+      "n": 1487,
+      "j": 6,
+      "y": 1883,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 495,
+        "4": 1486
+      },
+      "H_exact": 5,
+      "P_num": 120512,
+      "P_den": 120447
+    },
+    {
+      "n": 1551,
+      "j": 6,
+      "y": 1964,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1550
+      },
+      "H_exact": 4,
+      "P_num": 125696,
+      "P_den": 125631
+    },
+    {
+      "n": 1615,
+      "j": 6,
+      "y": 2045,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1614
+      },
+      "H_exact": 4,
+      "P_num": 130880,
+      "P_den": 130815
+    },
+    {
+      "n": 1679,
+      "j": 6,
+      "y": 2126,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 559,
+        "4": 1678
+      },
+      "H_exact": 5,
+      "P_num": 136064,
+      "P_den": 135999
+    },
+    {
+      "n": 1743,
+      "j": 6,
+      "y": 2207,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1742
+      },
+      "H_exact": 4,
+      "P_num": 141248,
+      "P_den": 141183
+    },
+    {
+      "n": 1807,
+      "j": 6,
+      "y": 2288,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1806
+      },
+      "H_exact": 4,
+      "P_num": 146432,
+      "P_den": 146367
+    },
+    {
+      "n": 1871,
+      "j": 6,
+      "y": 2369,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 623,
+        "4": 1870
+      },
+      "H_exact": 5,
+      "P_num": 151616,
+      "P_den": 151551
+    },
+    {
+      "n": 1935,
+      "j": 6,
+      "y": 2450,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1934
+      },
+      "H_exact": 4,
+      "P_num": 156800,
+      "P_den": 156735
+    },
+    {
+      "n": 1999,
+      "j": 6,
+      "y": 2531,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 1998
+      },
+      "H_exact": 4,
+      "P_num": 161984,
+      "P_den": 161919
+    },
+    {
+      "n": 2063,
+      "j": 6,
+      "y": 2612,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 687,
+        "4": 2062
+      },
+      "H_exact": 5,
+      "P_num": 167168,
+      "P_den": 167103
+    },
+    {
+      "n": 2127,
+      "j": 6,
+      "y": 2693,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2126
+      },
+      "H_exact": 4,
+      "P_num": 172352,
+      "P_den": 172287
+    },
+    {
+      "n": 2191,
+      "j": 6,
+      "y": 2774,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2190
+      },
+      "H_exact": 4,
+      "P_num": 177536,
+      "P_den": 177471
+    },
+    {
+      "n": 2255,
+      "j": 6,
+      "y": 2855,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 751,
+        "4": 2254
+      },
+      "H_exact": 5,
+      "P_num": 182720,
+      "P_den": 182655
+    },
+    {
+      "n": 2319,
+      "j": 6,
+      "y": 2936,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2318
+      },
+      "H_exact": 4,
+      "P_num": 187904,
+      "P_den": 187839
+    },
+    {
+      "n": 2383,
+      "j": 6,
+      "y": 3017,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2382
+      },
+      "H_exact": 4,
+      "P_num": 193088,
+      "P_den": 193023
+    },
+    {
+      "n": 2447,
+      "j": 6,
+      "y": 3098,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 815,
+        "4": 2446
+      },
+      "H_exact": 5,
+      "P_num": 198272,
+      "P_den": 198207
+    },
+    {
+      "n": 2511,
+      "j": 6,
+      "y": 3179,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2510
+      },
+      "H_exact": 4,
+      "P_num": 203456,
+      "P_den": 203391
+    },
+    {
+      "n": 2575,
+      "j": 6,
+      "y": 3260,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2574
+      },
+      "H_exact": 4,
+      "P_num": 208640,
+      "P_den": 208575
+    },
+    {
+      "n": 2639,
+      "j": 6,
+      "y": 3341,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 879,
+        "4": 2638
+      },
+      "H_exact": 5,
+      "P_num": 213824,
+      "P_den": 213759
+    },
+    {
+      "n": 2703,
+      "j": 6,
+      "y": 3422,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2702
+      },
+      "H_exact": 4,
+      "P_num": 219008,
+      "P_den": 218943
+    },
+    {
+      "n": 2767,
+      "j": 6,
+      "y": 3503,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2766
+      },
+      "H_exact": 4,
+      "P_num": 224192,
+      "P_den": 224127
+    },
+    {
+      "n": 2831,
+      "j": 6,
+      "y": 3584,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 943,
+        "4": 2830
+      },
+      "H_exact": 5,
+      "P_num": 229376,
+      "P_den": 229311
+    },
+    {
+      "n": 2895,
+      "j": 6,
+      "y": 3665,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2894
+      },
+      "H_exact": 4,
+      "P_num": 234560,
+      "P_den": 234495
+    },
+    {
+      "n": 2959,
+      "j": 6,
+      "y": 3746,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 2958
+      },
+      "H_exact": 4,
+      "P_num": 239744,
+      "P_den": 239679
+    },
+    {
+      "n": 3023,
+      "j": 6,
+      "y": 3827,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1007,
+        "4": 3022
+      },
+      "H_exact": 5,
+      "P_num": 244928,
+      "P_den": 244863
+    },
+    {
+      "n": 3087,
+      "j": 6,
+      "y": 3908,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3086
+      },
+      "H_exact": 4,
+      "P_num": 250112,
+      "P_den": 250047
+    },
+    {
+      "n": 3151,
+      "j": 6,
+      "y": 3989,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3150
+      },
+      "H_exact": 4,
+      "P_num": 255296,
+      "P_den": 255231
+    },
+    {
+      "n": 3215,
+      "j": 6,
+      "y": 4070,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1071,
+        "4": 3214
+      },
+      "H_exact": 5,
+      "P_num": 260480,
+      "P_den": 260415
+    },
+    {
+      "n": 3279,
+      "j": 6,
+      "y": 4151,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3278
+      },
+      "H_exact": 4,
+      "P_num": 265664,
+      "P_den": 265599
+    },
+    {
+      "n": 3343,
+      "j": 6,
+      "y": 4232,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3342
+      },
+      "H_exact": 4,
+      "P_num": 270848,
+      "P_den": 270783
+    },
+    {
+      "n": 3407,
+      "j": 6,
+      "y": 4313,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1135,
+        "4": 3406
+      },
+      "H_exact": 5,
+      "P_num": 276032,
+      "P_den": 275967
+    },
+    {
+      "n": 3471,
+      "j": 6,
+      "y": 4394,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3470
+      },
+      "H_exact": 4,
+      "P_num": 281216,
+      "P_den": 281151
+    },
+    {
+      "n": 3535,
+      "j": 6,
+      "y": 4475,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3534
+      },
+      "H_exact": 4,
+      "P_num": 286400,
+      "P_den": 286335
+    },
+    {
+      "n": 3599,
+      "j": 6,
+      "y": 4556,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1199,
+        "4": 3598
+      },
+      "H_exact": 5,
+      "P_num": 291584,
+      "P_den": 291519
+    },
+    {
+      "n": 3663,
+      "j": 6,
+      "y": 4637,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3662
+      },
+      "H_exact": 4,
+      "P_num": 296768,
+      "P_den": 296703
+    },
+    {
+      "n": 3727,
+      "j": 6,
+      "y": 4718,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3726
+      },
+      "H_exact": 4,
+      "P_num": 301952,
+      "P_den": 301887
+    },
+    {
+      "n": 3791,
+      "j": 6,
+      "y": 4799,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1263,
+        "4": 3790
+      },
+      "H_exact": 5,
+      "P_num": 307136,
+      "P_den": 307071
+    },
+    {
+      "n": 3855,
+      "j": 6,
+      "y": 4880,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3854
+      },
+      "H_exact": 4,
+      "P_num": 312320,
+      "P_den": 312255
+    },
+    {
+      "n": 3919,
+      "j": 6,
+      "y": 4961,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 3918
+      },
+      "H_exact": 4,
+      "P_num": 317504,
+      "P_den": 317439
+    },
+    {
+      "n": 3983,
+      "j": 6,
+      "y": 5042,
+      "a": 4,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "5": 1327,
+        "4": 3982
+      },
+      "H_exact": 5,
+      "P_num": 322688,
+      "P_den": 322623
+    },
+    {
+      "n": 4047,
+      "j": 6,
+      "y": 5123,
+      "a": 4,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "4": 4046
+      },
+      "H_exact": 4,
+      "P_num": 327872,
+      "P_den": 327807
+    },
+    {
+      "n": 95,
+      "j": 7,
+      "y": 182,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 31,
+        "5": 94
+      },
+      "H_exact": 6,
+      "P_num": 23296,
+      "P_den": 23085
+    },
+    {
+      "n": 223,
+      "j": 7,
+      "y": 425,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 222
+      },
+      "H_exact": 5,
+      "P_num": 54400,
+      "P_den": 54189
+    },
+    {
+      "n": 351,
+      "j": 7,
+      "y": 668,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 350
+      },
+      "H_exact": 5,
+      "P_num": 85504,
+      "P_den": 85293
+    },
+    {
+      "n": 479,
+      "j": 7,
+      "y": 911,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 159,
+        "5": 478
+      },
+      "H_exact": 6,
+      "P_num": 116608,
+      "P_den": 116397
+    },
+    {
+      "n": 607,
+      "j": 7,
+      "y": 1154,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 606
+      },
+      "H_exact": 5,
+      "P_num": 147712,
+      "P_den": 147501
+    },
+    {
+      "n": 735,
+      "j": 7,
+      "y": 1397,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 734
+      },
+      "H_exact": 5,
+      "P_num": 178816,
+      "P_den": 178605
+    },
+    {
+      "n": 863,
+      "j": 7,
+      "y": 1640,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 287,
+        "5": 862
+      },
+      "H_exact": 6,
+      "P_num": 209920,
+      "P_den": 209709
+    },
+    {
+      "n": 991,
+      "j": 7,
+      "y": 1883,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 990
+      },
+      "H_exact": 5,
+      "P_num": 241024,
+      "P_den": 240813
+    },
+    {
+      "n": 1119,
+      "j": 7,
+      "y": 2126,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 1118
+      },
+      "H_exact": 5,
+      "P_num": 272128,
+      "P_den": 271917
+    },
+    {
+      "n": 1247,
+      "j": 7,
+      "y": 2369,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 415,
+        "5": 1246
+      },
+      "H_exact": 6,
+      "P_num": 303232,
+      "P_den": 303021
+    },
+    {
+      "n": 1375,
+      "j": 7,
+      "y": 2612,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 1374
+      },
+      "H_exact": 5,
+      "P_num": 334336,
+      "P_den": 334125
+    },
+    {
+      "n": 1503,
+      "j": 7,
+      "y": 2855,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 1502
+      },
+      "H_exact": 5,
+      "P_num": 365440,
+      "P_den": 365229
+    },
+    {
+      "n": 1631,
+      "j": 7,
+      "y": 3098,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 543,
+        "5": 1630
+      },
+      "H_exact": 6,
+      "P_num": 396544,
+      "P_den": 396333
+    },
+    {
+      "n": 1759,
+      "j": 7,
+      "y": 3341,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 1758
+      },
+      "H_exact": 5,
+      "P_num": 427648,
+      "P_den": 427437
+    },
+    {
+      "n": 1887,
+      "j": 7,
+      "y": 3584,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 1886
+      },
+      "H_exact": 5,
+      "P_num": 458752,
+      "P_den": 458541
+    },
+    {
+      "n": 2015,
+      "j": 7,
+      "y": 3827,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 671,
+        "5": 2014
+      },
+      "H_exact": 6,
+      "P_num": 489856,
+      "P_den": 489645
+    },
+    {
+      "n": 2143,
+      "j": 7,
+      "y": 4070,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 2142
+      },
+      "H_exact": 5,
+      "P_num": 520960,
+      "P_den": 520749
+    },
+    {
+      "n": 2271,
+      "j": 7,
+      "y": 4313,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 2270
+      },
+      "H_exact": 5,
+      "P_num": 552064,
+      "P_den": 551853
+    },
+    {
+      "n": 2399,
+      "j": 7,
+      "y": 4556,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 799,
+        "5": 2398
+      },
+      "H_exact": 6,
+      "P_num": 583168,
+      "P_den": 582957
+    },
+    {
+      "n": 2527,
+      "j": 7,
+      "y": 4799,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 2526
+      },
+      "H_exact": 5,
+      "P_num": 614272,
+      "P_den": 614061
+    },
+    {
+      "n": 2655,
+      "j": 7,
+      "y": 5042,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 2654
+      },
+      "H_exact": 5,
+      "P_num": 645376,
+      "P_den": 645165
+    },
+    {
+      "n": 2783,
+      "j": 7,
+      "y": 5285,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 927,
+        "5": 2782
+      },
+      "H_exact": 6,
+      "P_num": 676480,
+      "P_den": 676269
+    },
+    {
+      "n": 2911,
+      "j": 7,
+      "y": 5528,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 2910
+      },
+      "H_exact": 5,
+      "P_num": 707584,
+      "P_den": 707373
+    },
+    {
+      "n": 3039,
+      "j": 7,
+      "y": 5771,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 3038
+      },
+      "H_exact": 5,
+      "P_num": 738688,
+      "P_den": 738477
+    },
+    {
+      "n": 3167,
+      "j": 7,
+      "y": 6014,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 1055,
+        "5": 3166
+      },
+      "H_exact": 6,
+      "P_num": 769792,
+      "P_den": 769581
+    },
+    {
+      "n": 3295,
+      "j": 7,
+      "y": 6257,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 3294
+      },
+      "H_exact": 5,
+      "P_num": 800896,
+      "P_den": 800685
+    },
+    {
+      "n": 3423,
+      "j": 7,
+      "y": 6500,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 3422
+      },
+      "H_exact": 5,
+      "P_num": 832000,
+      "P_den": 831789
+    },
+    {
+      "n": 3551,
+      "j": 7,
+      "y": 6743,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 1183,
+        "5": 3550
+      },
+      "H_exact": 6,
+      "P_num": 863104,
+      "P_den": 862893
+    },
+    {
+      "n": 3679,
+      "j": 7,
+      "y": 6986,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 3678
+      },
+      "H_exact": 5,
+      "P_num": 894208,
+      "P_den": 893997
+    },
+    {
+      "n": 3807,
+      "j": 7,
+      "y": 7229,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 3806
+      },
+      "H_exact": 5,
+      "P_num": 925312,
+      "P_den": 925101
+    },
+    {
+      "n": 3935,
+      "j": 7,
+      "y": 7472,
+      "a": 5,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "6": 1311,
+        "5": 3934
+      },
+      "H_exact": 6,
+      "P_num": 956416,
+      "P_den": 956205
+    },
+    {
+      "n": 4063,
+      "j": 7,
+      "y": 7715,
+      "a": 5,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "5": 4062
+      },
+      "H_exact": 5,
+      "P_num": 987520,
+      "P_den": 987309
+    },
+    {
+      "n": 63,
+      "j": 8,
+      "y": 182,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 62
+      },
+      "H_exact": 6,
+      "P_num": 46592,
+      "P_den": 45927
+    },
+    {
+      "n": 319,
+      "j": 8,
+      "y": 911,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 318
+      },
+      "H_exact": 6,
+      "P_num": 233216,
+      "P_den": 232551
+    },
+    {
+      "n": 575,
+      "j": 8,
+      "y": 1640,
+      "a": 6,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "7": 191,
+        "6": 574
+      },
+      "H_exact": 7,
+      "P_num": 419840,
+      "P_den": 419175
+    },
+    {
+      "n": 831,
+      "j": 8,
+      "y": 2369,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 830
+      },
+      "H_exact": 6,
+      "P_num": 606464,
+      "P_den": 605799
+    },
+    {
+      "n": 1087,
+      "j": 8,
+      "y": 3098,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 1086
+      },
+      "H_exact": 6,
+      "P_num": 793088,
+      "P_den": 792423
+    },
+    {
+      "n": 1343,
+      "j": 8,
+      "y": 3827,
+      "a": 6,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "7": 447,
+        "6": 1342
+      },
+      "H_exact": 7,
+      "P_num": 979712,
+      "P_den": 979047
+    },
+    {
+      "n": 1599,
+      "j": 8,
+      "y": 4556,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 1598
+      },
+      "H_exact": 6,
+      "P_num": 1166336,
+      "P_den": 1165671
+    },
+    {
+      "n": 1855,
+      "j": 8,
+      "y": 5285,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 1854
+      },
+      "H_exact": 6,
+      "P_num": 1352960,
+      "P_den": 1352295
+    },
+    {
+      "n": 2111,
+      "j": 8,
+      "y": 6014,
+      "a": 6,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "7": 703,
+        "6": 2110
+      },
+      "H_exact": 7,
+      "P_num": 1539584,
+      "P_den": 1538919
+    },
+    {
+      "n": 2367,
+      "j": 8,
+      "y": 6743,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 2366
+      },
+      "H_exact": 6,
+      "P_num": 1726208,
+      "P_den": 1725543
+    },
+    {
+      "n": 2623,
+      "j": 8,
+      "y": 7472,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 2622
+      },
+      "H_exact": 6,
+      "P_num": 1912832,
+      "P_den": 1912167
+    },
+    {
+      "n": 2879,
+      "j": 8,
+      "y": 8201,
+      "a": 6,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "7": 959,
+        "6": 2878
+      },
+      "H_exact": 7,
+      "P_num": 2099456,
+      "P_den": 2098791
+    },
+    {
+      "n": 3135,
+      "j": 8,
+      "y": 8930,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 3134
+      },
+      "H_exact": 6,
+      "P_num": 2286080,
+      "P_den": 2285415
+    },
+    {
+      "n": 3391,
+      "j": 8,
+      "y": 9659,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 3390
+      },
+      "H_exact": 6,
+      "P_num": 2472704,
+      "P_den": 2472039
+    },
+    {
+      "n": 3647,
+      "j": 8,
+      "y": 10388,
+      "a": 6,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "7": 1215,
+        "6": 3646
+      },
+      "H_exact": 7,
+      "P_num": 2659328,
+      "P_den": 2658663
+    },
+    {
+      "n": 3903,
+      "j": 8,
+      "y": 11117,
+      "a": 6,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "6": 3902
+      },
+      "H_exact": 6,
+      "P_num": 2845952,
+      "P_den": 2845287
+    },
+    {
+      "n": 383,
+      "j": 9,
+      "y": 1640,
+      "a": 7,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "8": 127,
+        "7": 382
+      },
+      "H_exact": 8,
+      "P_num": 839680,
+      "P_den": 837621
+    },
+    {
+      "n": 895,
+      "j": 9,
+      "y": 3827,
+      "a": 7,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "7": 894
+      },
+      "H_exact": 7,
+      "P_num": 1959424,
+      "P_den": 1957365
+    },
+    {
+      "n": 1407,
+      "j": 9,
+      "y": 6014,
+      "a": 7,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "7": 1406
+      },
+      "H_exact": 7,
+      "P_num": 3079168,
+      "P_den": 3077109
+    },
+    {
+      "n": 1919,
+      "j": 9,
+      "y": 8201,
+      "a": 7,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "8": 639,
+        "7": 1918
+      },
+      "H_exact": 8,
+      "P_num": 4198912,
+      "P_den": 4196853
+    },
+    {
+      "n": 2431,
+      "j": 9,
+      "y": 10388,
+      "a": 7,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "7": 2430
+      },
+      "H_exact": 7,
+      "P_num": 5318656,
+      "P_den": 5316597
+    },
+    {
+      "n": 2943,
+      "j": 9,
+      "y": 12575,
+      "a": 7,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "7": 2942
+      },
+      "H_exact": 7,
+      "P_num": 6438400,
+      "P_den": 6436341
+    },
+    {
+      "n": 3455,
+      "j": 9,
+      "y": 14762,
+      "a": 7,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "8": 1151,
+        "7": 3454
+      },
+      "H_exact": 8,
+      "P_num": 7558144,
+      "P_den": 7556085
+    },
+    {
+      "n": 3967,
+      "j": 9,
+      "y": 16949,
+      "a": 7,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "7": 3966
+      },
+      "H_exact": 7,
+      "P_num": 8677888,
+      "P_den": 8675829
+    },
+    {
+      "n": 255,
+      "j": 10,
+      "y": 1640,
+      "a": 8,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "8": 254
+      },
+      "H_exact": 8,
+      "P_num": 1679360,
+      "P_den": 1673055
+    },
+    {
+      "n": 1279,
+      "j": 10,
+      "y": 8201,
+      "a": 8,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "8": 1278
+      },
+      "H_exact": 8,
+      "P_num": 8397824,
+      "P_den": 8391519
+    },
+    {
+      "n": 2303,
+      "j": 10,
+      "y": 14762,
+      "a": 8,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "9": 767,
+        "8": 2302
+      },
+      "H_exact": 9,
+      "P_num": 15116288,
+      "P_den": 15109983
+    },
+    {
+      "n": 3327,
+      "j": 10,
+      "y": 21323,
+      "a": 8,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "8": 3326
+      },
+      "H_exact": 8,
+      "P_num": 21834752,
+      "P_den": 21828447
+    },
+    {
+      "n": 1535,
+      "j": 11,
+      "y": 14762,
+      "a": 9,
+      "kind": "surplus",
+      "partners_min_by_count": {
+        "10": 511,
+        "9": 1534
+      },
+      "H_exact": 10,
+      "P_num": 30232576,
+      "P_den": 30213405
+    },
+    {
+      "n": 3583,
+      "j": 11,
+      "y": 34445,
+      "a": 9,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "9": 3582
+      },
+      "H_exact": 9,
+      "P_num": 70543360,
+      "P_den": 70524189
+    },
+    {
+      "n": 1023,
+      "j": 12,
+      "y": 14762,
+      "a": 10,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "10": 1022
+      },
+      "H_exact": 10,
+      "P_num": 60465152,
+      "P_den": 60407127
+    },
+    {
+      "n": 4095,
+      "j": 14,
+      "y": 132860,
+      "a": 12,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "12": 4094
+      },
+      "H_exact": 12,
+      "P_num": 2176778240,
+      "P_den": 2176250895
+    },
+    {
+      "n": 2815,
+      "j": 19,
+      "y": 2855,
+      "a": 12,
+      "kind": "same_only",
+      "partners_min_by_count": {
+        "12": 2809
+      },
+      "H_exact": 12,
+      "P_num": 1496842240,
+      "P_den": 1496006415
+    }
+  ],
+  "seconds": 0.2857856750488281,
+  "scope": "First synchronous meetings; odd sources before any descent or repeated state; exact H inferred using P<3 and exhaustive smaller origins"
+}

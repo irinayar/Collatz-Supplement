@@ -1,0 +1,21 @@
+{
+  "R": [
+    69952,
+    69741
+  ],
+  "R_starts": [
+    287
+  ],
+  "pair": [
+    227840,
+    226719
+  ],
+  "pair_witness": 311,
+  "single_first_not_certified": 61,
+  "pair_first_not_certified": 75,
+  "run_checks": 1265,
+  "pair_checks": 514,
+  "max_sample_runs": 43,
+  "seconds": 0.030999999959021807,
+  "v10_unchanged": true
+}

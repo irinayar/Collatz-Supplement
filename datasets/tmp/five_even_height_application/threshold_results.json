@@ -1,0 +1,13 @@
+{
+  "threshold_boundary_tests": 300,
+  "all_new_leaves_requested_empty": true,
+  "root_identity_checked": true,
+  "global_min_range": [
+    17982910886151,
+    2043402791418680640
+  ],
+  "leaf_even_budgets": [
+    5
+  ],
+  "seconds": 0.10999999998603016
+}

@@ -1,0 +1,15 @@
+{
+  "case_counts": {
+    "G0": 501,
+    "u2": 1000,
+    "d1j1": 166,
+    "d2": 167,
+    "d1j2": 166
+  },
+  "overlap_checks": 3999,
+  "takeover_checks": 1333,
+  "direct_word_cells": 720,
+  "independent_series": 1000,
+  "seconds": 0.4380000000237487,
+  "v10_unchanged": true
+}

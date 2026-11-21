@@ -1,0 +1,21 @@
+{
+  "lemma": "For all s>=6, n=1888 mod2187; even n descends in1, odd n=4075mod4374 isC108-11.",
+  "rule": {
+    "id": "C108-11",
+    "residue": 4075,
+    "modulus": 4374,
+    "minimum": 4075
+  },
+  "s0_contained_in_C114": [
+    1877689,
+    4782969
+  ],
+  "depth_min": 1,
+  "analytic_new_class_indices": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

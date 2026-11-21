@@ -1,0 +1,22 @@
+{
+  "trajectory_steps": 22683,
+  "lift_identity_checks": 2840,
+  "max_product": {
+    "m": 993,
+    "n": 8,
+    "k": 26,
+    "r": 32,
+    "ratio_numerator": 2305843009213693952,
+    "ratio_denominator": 1840049047529878113
+  },
+  "violations": [],
+  "capped": [],
+  "cycle_control": {
+    "endpoint": 2,
+    "k": 3,
+    "r": 3,
+    "lift": 0
+  },
+  "seconds": 0.125,
+  "v10_unchanged": true
+}

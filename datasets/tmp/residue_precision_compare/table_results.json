@@ -1,0 +1,22 @@
+{
+  "precision": 12,
+  "bellman_cells": 708588,
+  "independent_graph_precisions": 0,
+  "finite_cost_max": [
+    0,
+    1,
+    4,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17
+  ],
+  "immediate_root_cuts": [],
+  "seconds": 0.9679999999934807
+}

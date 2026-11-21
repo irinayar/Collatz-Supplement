@@ -1,0 +1,228 @@
+{
+  "verified": true,
+  "independent_recurrence": true,
+  "certificates": [
+    {
+      "state": {
+        "level": 92,
+        "t": 75,
+        "z": 1496632903889236,
+        "b": 69
+      },
+      "certificate": {
+        "index": 23,
+        "numerator_min": 834385168331228107724447005108211,
+        "numerator_max": 834385168331228107724447005108211,
+        "height_intersection_lower": 834385168331228107724447005108211,
+        "height_intersection_upper": 834385168331228107724447005108211,
+        "full_modulus": 834385168331080533771857328695283,
+        "endpoint_numerator": 56541192499891161348119773365873410048,
+        "first": 1584723440482218671177058823643402,
+        "last": 750338272151138137405201494948119,
+        "origin_lower": 67763,
+        "origin_upper": 67762,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 92,
+        "t": 74,
+        "z": 997755269259490,
+        "b": 68
+      },
+      "certificate": {
+        "index": 24,
+        "numerator_min": 278128389444099339626907386367313,
+        "numerator_max": 278128389444099339626907386367313,
+        "height_intersection_lower": 278128389444099339626907386367313,
+        "height_intersection_upper": 278128389444099339626907386367313,
+        "full_modulus": 278128389443693511257285776231761,
+        "endpoint_numerator": 18847064166630374523062636802903900160,
+        "first": 528241146814813246438033887311278,
+        "last": 250112757371119735180748111079517,
+        "origin_lower": 67763,
+        "origin_upper": 67762,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 92,
+        "t": 71,
+        "z": 2660680718025304,
+        "b": 67
+      },
+      "certificate": {
+        "index": 25,
+        "numerator_min": 92709463149207555914995303575323,
+        "numerator_max": 92709463149207555914995303575323,
+        "height_intersection_lower": 92709463149207555914995303575323,
+        "height_intersection_upper": 92709463149207555914995303575323,
+        "full_modulus": 92709463147897837085761925410587,
+        "endpoint_numerator": 6282354722210118544532235108107681792,
+        "first": 176080382265307926835518435485498,
+        "last": 83370919117410089749756510074911,
+        "origin_lower": 67763,
+        "origin_upper": 67762,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 89,
+        "t": 62,
+        "z": 50454389911619506,
+        "b": 61
+      },
+      "certificate": {
+        "index": 102,
+        "numerator_min": 127173474823342767533669605651,
+        "numerator_max": 127173474823342767533669605651,
+        "height_intersection_lower": 127173474823342767533669605651,
+        "height_intersection_upper": 127173474823342767533669605651,
+        "full_modulus": 127173474825648610542883299603,
+        "endpoint_numerator": 232679804523699527508192913914855424,
+        "first": 162819297014092280599762016152,
+        "last": 35645822188443670056878716549,
+        "origin_lower": 1829625,
+        "origin_upper": 1829624,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 87,
+        "t": 60,
+        "z": 830524936813144,
+        "b": 54
+      },
+      "certificate": {
+        "index": 174,
+        "numerator_min": 58149737108874650933596825,
+        "numerator_max": 58149737108874650933596825,
+        "height_intersection_lower": 58149737108874650933596825,
+        "height_intersection_upper": 58149737108874650933596825,
+        "full_modulus": 58149737003040059690390169,
+        "endpoint_numerator": 957530059764116493846223513452544,
+        "first": 88536694967906892806452750,
+        "last": 30386957964866833116062581,
+        "origin_lower": 16466627,
+        "origin_upper": 16466626,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 84,
+        "t": 55,
+        "z": 8858932659283264,
+        "b": 50
+      },
+      "certificate": {
+        "index": 281,
+        "numerator_min": 717897989099227472323529,
+        "numerator_max": 717897989099227472323529,
+        "height_intersection_lower": 717897989099227472323529,
+        "height_intersection_upper": 717897989099227472323529,
+        "full_modulus": 717897987691852588770249,
+        "endpoint_numerator": 319176686585987399618210721431552,
+        "first": 794260716630996934954994,
+        "last": 76362728939144346184745,
+        "origin_lower": 444598943,
+        "origin_upper": 444598942,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 84,
+        "t": 54,
+        "z": 5905955106188842,
+        "b": 49
+      },
+      "certificate": {
+        "index": 282,
+        "numerator_min": 239299334789748319625539,
+        "numerator_max": 239299334789748319625539,
+        "height_intersection_lower": 239299334789748319625539,
+        "height_intersection_upper": 239299334789748319625539,
+        "full_modulus": 239299329230617529590083,
+        "endpoint_numerator": 106392228861995787863137900822528,
+        "first": 264753560200733305330342,
+        "last": 25454230970115775740259,
+        "origin_lower": 444598943,
+        "origin_upper": 444598942,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 82,
+        "t": 51,
+        "z": 5249737872152980,
+        "b": 45
+      },
+      "certificate": {
+        "index": 362,
+        "numerator_min": 2954312715346926720851,
+        "numerator_max": 2954312715346926720851,
+        "height_intersection_lower": 2954312715346926720851,
+        "height_intersection_upper": 2954312715346926720851,
+        "full_modulus": 2954312706550833698643,
+        "endpoint_numerator": 11821358762410470648809825239040,
+        "first": 5749054811691533928542,
+        "last": 2794742105140700229899,
+        "origin_lower": 4001390487,
+        "origin_upper": 4001390486,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 82,
+        "t": 50,
+        "z": 3499825248101986,
+        "b": 44
+      },
+      "certificate": {
+        "index": 363,
+        "numerator_min": 984770926372867043953,
+        "numerator_max": 984770926372867043953,
+        "height_intersection_lower": 984770926372867043953,
+        "height_intersection_upper": 984770926372867043953,
+        "full_modulus": 984770902183611232881,
+        "endpoint_numerator": 3940452920803489465670003851264,
+        "first": 1916350853297240081098,
+        "last": 931579951113628848217,
+        "origin_lower": 4001390487,
+        "origin_upper": 4001390486,
+        "excluded": true
+      }
+    },
+    {
+      "state": {
+        "level": 82,
+        "t": 47,
+        "z": 9332867328271960,
+        "b": 43
+      },
+      "certificate": {
+        "index": 364,
+        "numerator_min": 328257045459862649723,
+        "numerator_max": 328257045459862649723,
+        "height_intersection_lower": 328257045459862649723,
+        "height_intersection_upper": 328257045459862649723,
+        "full_modulus": 328256967394537077627,
+        "endpoint_numerator": 1313484306934496113256699002880,
+        "first": 638783242465777746158,
+        "last": 310526275071240668531,
+        "origin_lower": 4001390487,
+        "origin_upper": 4001390486,
+        "excluded": true
+      }
+    }
+  ],
+  "search_checkpoint_unchanged": true,
+  "v9_unchanged": true
+}

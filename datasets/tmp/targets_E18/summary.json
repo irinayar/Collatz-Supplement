@@ -1,0 +1,35 @@
+[
+  {
+    "j": 3,
+    "K": 55,
+    "normalized_counts": {
+      "16": 24,
+      "18": 88
+    },
+    "new_cylinders": 64,
+    "local_new_parameter_density": "17/13122",
+    "checks": 256
+  },
+  {
+    "j": 4,
+    "K": 19,
+    "normalized_counts": {
+      "16": 24,
+      "18": 88
+    },
+    "new_cylinders": 64,
+    "local_new_parameter_density": "34/19683",
+    "checks": 256
+  },
+  {
+    "j": 5,
+    "K": 7,
+    "normalized_counts": {
+      "16": 24,
+      "18": 24
+    },
+    "new_cylinders": 0,
+    "local_new_parameter_density": "0",
+    "checks": 0
+  }
+]

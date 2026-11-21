@@ -1,0 +1,113 @@
+{
+  "completed_depth": 12,
+  "rows": [
+    {
+      "j": 1,
+      "period": 6,
+      "survivor_count": 5,
+      "all_word_pairs": 4,
+      "first_representative_certificates": 1,
+      "small_height_checks": 2,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 2,
+      "period": 12,
+      "survivor_count": 9,
+      "all_word_pairs": 16,
+      "first_representative_certificates": 3,
+      "small_height_checks": 4,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 3,
+      "period": 24,
+      "survivor_count": 15,
+      "all_word_pairs": 64,
+      "first_representative_certificates": 9,
+      "small_height_checks": 8,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 4,
+      "period": 48,
+      "survivor_count": 25,
+      "all_word_pairs": 256,
+      "first_representative_certificates": 23,
+      "small_height_checks": 16,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 5,
+      "period": 96,
+      "survivor_count": 43,
+      "all_word_pairs": 1024,
+      "first_representative_certificates": 53,
+      "small_height_checks": 32,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 6,
+      "period": 192,
+      "survivor_count": 77,
+      "all_word_pairs": 4096,
+      "first_representative_certificates": 115,
+      "small_height_checks": 64,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 7,
+      "period": 384,
+      "survivor_count": 139,
+      "all_word_pairs": 16384,
+      "first_representative_certificates": 245,
+      "small_height_checks": 128,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 8,
+      "period": 768,
+      "survivor_count": 255,
+      "all_word_pairs": 65536,
+      "first_representative_certificates": 513,
+      "small_height_checks": 256,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 9,
+      "period": 1536,
+      "survivor_count": 471,
+      "all_word_pairs": 262144,
+      "first_representative_certificates": 1065,
+      "small_height_checks": 512,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 10,
+      "period": 3072,
+      "survivor_count": 877,
+      "all_word_pairs": 1048576,
+      "first_representative_certificates": 2195,
+      "small_height_checks": 1024,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 11,
+      "period": 6144,
+      "survivor_count": 1639,
+      "all_word_pairs": 4194304,
+      "first_representative_certificates": 4505,
+      "small_height_checks": 2048,
+      "all_positive_integers_verified": true
+    },
+    {
+      "j": 12,
+      "period": 12288,
+      "survivor_count": 3071,
+      "all_word_pairs": 16777216,
+      "first_representative_certificates": 9217,
+      "small_height_checks": 4096,
+      "all_positive_integers_verified": true
+    }
+  ]
+}

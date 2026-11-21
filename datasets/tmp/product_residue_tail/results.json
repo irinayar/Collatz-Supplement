@@ -1,0 +1,15 @@
+{
+  "H": 255,
+  "Q_num": 8192,
+  "Q_den": 6561,
+  "maximizers": [
+    9
+  ],
+  "first_A_not_certified": 355,
+  "exception": 261,
+  "tested_transitions": 22683,
+  "repetitions": 0,
+  "maxhigh": 88,
+  "seconds": 0.046999999962281436,
+  "v10_unchanged": true
+}

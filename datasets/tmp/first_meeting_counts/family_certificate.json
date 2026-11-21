@@ -1,0 +1,14 @@
+{
+  "j6_higher_compatible": [
+    {
+      "mask": 47,
+      "a": 5,
+      "V": 227
+    }
+  ],
+  "same_count_numerator": 146,
+  "source_numerator": 65,
+  "controls": 100,
+  "family": "n=15 or79 mod192: first meeting at6 with n-1; H_6=4=A_6",
+  "all_n15mod64_first_meeting": 6
+}

@@ -1,0 +1,346 @@
+{
+  "verified": true,
+  "all_unsaturated_rows": 54,
+  "multi_rows": 52,
+  "full_word_checks": 382,
+  "proofs": [
+    {
+      "state": {
+        "index": 104,
+        "level": 89,
+        "t": 60,
+        "z": 22424173294053113,
+        "b": 59,
+        "e": 1,
+        "suffix_count": 1,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "1111",
+            "d": 0,
+            "V": 65,
+            "k": 1
+          },
+          "intermediate": 4429466329689503,
+          "prefix_odds": 55,
+          "a": 2,
+          "defect": 3937303404168447,
+          "defect_v3": 1,
+          "max_prefix_odds": 3
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 136,
+        "level": 88,
+        "t": 63,
+        "z": 934340553917716,
+        "b": 57,
+        "e": 6,
+        "suffix_count": 3,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "101010010",
+            "d": 5,
+            "V": 239,
+            "k": 1
+          },
+          "intermediate": 5905955106245313,
+          "prefix_odds": 53,
+          "a": 0,
+          "defect": 11811910212490627,
+          "defect_v3": 0,
+          "max_prefix_odds": 0
+        },
+        {
+          "suffix": {
+            "word": "1110100000",
+            "d": 6,
+            "V": 73,
+            "k": 0
+          },
+          "intermediate": 11811910212490631,
+          "prefix_odds": 53,
+          "a": 1,
+          "defect": 15749213616654175,
+          "defect_v3": 0,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "1100010010",
+            "d": 6,
+            "V": 397,
+            "k": 0
+          },
+          "intermediate": 11811910212490627,
+          "prefix_odds": 53,
+          "a": 0,
+          "defect": 23623820424981255,
+          "defect_v3": 1,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 137,
+        "level": 88,
+        "t": 61,
+        "z": 1245787405223620,
+        "b": 56,
+        "e": 5,
+        "suffix_count": 2,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "10100110",
+            "d": 4,
+            "V": 223,
+            "k": 1
+          },
+          "intermediate": 3937303404163537,
+          "prefix_odds": 52,
+          "a": 0,
+          "defect": 7874606808327075,
+          "defect_v3": 1,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "110000110",
+            "d": 5,
+            "V": 365,
+            "k": 0
+          },
+          "intermediate": 7874606808327075,
+          "prefix_odds": 52,
+          "a": 0,
+          "defect": 15749213616654151,
+          "defect_v3": 0,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 172,
+        "level": 87,
+        "t": 64,
+        "z": 467170276957396,
+        "b": 56,
+        "e": 8,
+        "suffix_count": 3,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "10101100000",
+            "d": 7,
+            "V": 143,
+            "k": 1
+          },
+          "intermediate": 11811910212453665,
+          "prefix_odds": 52,
+          "a": 1,
+          "defect": 15749213616604887,
+          "defect_v3": 1,
+          "max_prefix_odds": 2
+        },
+        {
+          "suffix": {
+            "word": "110001100000",
+            "d": 8,
+            "V": 205,
+            "k": 0
+          },
+          "intermediate": 23623820424907331,
+          "prefix_odds": 52,
+          "a": 1,
+          "defect": 31498427233209775,
+          "defect_v3": 0,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "101010001000",
+            "d": 8,
+            "V": 367,
+            "k": 0
+          },
+          "intermediate": 23623820424907329,
+          "prefix_odds": 52,
+          "a": 0,
+          "defect": 47247640849814659,
+          "defect_v3": 0,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 173,
+        "level": 87,
+        "t": 63,
+        "z": 311446851304930,
+        "b": 55,
+        "e": 8,
+        "suffix_count": 3,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "10110001000",
+            "d": 7,
+            "V": 215,
+            "k": 1
+          },
+          "intermediate": 7874606808302425,
+          "prefix_odds": 51,
+          "a": 0,
+          "defect": 15749213616604851,
+          "defect_v3": 1,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "110010001000",
+            "d": 8,
+            "V": 349,
+            "k": 0
+          },
+          "intermediate": 15749213616604851,
+          "prefix_odds": 51,
+          "a": 0,
+          "defect": 31498427233209703,
+          "defect_v3": 0,
+          "max_prefix_odds": 0
+        },
+        {
+          "suffix": {
+            "word": "101000101000",
+            "d": 8,
+            "V": 511,
+            "k": 0
+          },
+          "intermediate": 15749213616604849,
+          "prefix_odds": 51,
+          "a": 0,
+          "defect": 31498427233209699,
+          "defect_v3": 2,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 209,
+        "level": 86,
+        "t": 67,
+        "z": 4730099054178688,
+        "b": 59,
+        "e": 8,
+        "suffix_count": 3,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "11010001000",
+            "d": 7,
+            "V": 197,
+            "k": 1
+          },
+          "intermediate": 119595590900715467,
+          "prefix_odds": 55,
+          "a": 1,
+          "defect": 159460787867620623,
+          "defect_v3": 1,
+          "max_prefix_odds": 2
+        },
+        {
+          "suffix": {
+            "word": "111000001000",
+            "d": 8,
+            "V": 313,
+            "k": 0
+          },
+          "intermediate": 239191181801430935,
+          "prefix_odds": 55,
+          "a": 1,
+          "defect": 318921575735241247,
+          "defect_v3": 0,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "101100100000",
+            "d": 8,
+            "V": 151,
+            "k": 0
+          },
+          "intermediate": 239191181801430937,
+          "prefix_odds": 55,
+          "a": 0,
+          "defect": 478382363602861875,
+          "defect_v3": 1,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 245,
+        "level": 85,
+        "t": 54,
+        "z": 53153595955791436,
+        "b": 52,
+        "e": 2,
+        "suffix_count": 1,
+        "unsaturated": true,
+        "candidates": [],
+        "excluded": true
+      },
+      "branches": [
+        {
+          "suffix": {
+            "word": "11110",
+            "d": 1,
+            "V": 65,
+            "k": 1
+          },
+          "intermediate": 20998951488707727,
+          "prefix_odds": 48,
+          "a": 0,
+          "defect": 41997902977415455,
+          "defect_v3": 0,
+          "max_prefix_odds": 0
+        }
+      ]
+    }
+  ],
+  "checkpoint_unchanged": true,
+  "v9_unchanged": true
+}

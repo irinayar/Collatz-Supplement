@@ -1,0 +1,337 @@
+{
+  "new_marginal": 0,
+  "k10_s0": {
+    "k": 10,
+    "s": 0,
+    "r": 19,
+    "q": 1162261467,
+    "p": 1073741824,
+    "U": 1161737179,
+    "rho": 47103370,
+    "word": "111111111111111111100000000000"
+  },
+  "parent_C115_s1": {
+    "k": 8,
+    "s": 1,
+    "r": 17,
+    "q": 387420489,
+    "p": 268435456,
+    "U": 387289417,
+    "rho": 47103370,
+    "word": "1111111111111111101000000000"
+  },
+  "all_s_ge1": "C110s0:4mod9",
+  "k10_actual_path_checks": 202,
+  "general_even_s0_controls": [
+    {
+      "k": 2,
+      "r_s0": 6,
+      "parent_r": 3,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 4,
+      "r_s0": 9,
+      "parent_r": 6,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 6,
+      "r_s0": 12,
+      "parent_r": 10,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 8,
+      "r_s0": 16,
+      "parent_r": 13,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 10,
+      "r_s0": 19,
+      "parent_r": 17,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 12,
+      "r_s0": 23,
+      "parent_r": 20,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 14,
+      "r_s0": 26,
+      "parent_r": 23,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 16,
+      "r_s0": 30,
+      "parent_r": 27,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 18,
+      "r_s0": 33,
+      "parent_r": 30,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 20,
+      "r_s0": 36,
+      "parent_r": 34,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 22,
+      "r_s0": 40,
+      "parent_r": 37,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 24,
+      "r_s0": 43,
+      "parent_r": 41,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 26,
+      "r_s0": 47,
+      "parent_r": 44,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 28,
+      "r_s0": 50,
+      "parent_r": 47,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 30,
+      "r_s0": 53,
+      "parent_r": 51,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 32,
+      "r_s0": 57,
+      "parent_r": 54,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 34,
+      "r_s0": 60,
+      "parent_r": 58,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 36,
+      "r_s0": 64,
+      "parent_r": 61,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 38,
+      "r_s0": 67,
+      "parent_r": 64,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 40,
+      "r_s0": 71,
+      "parent_r": 68,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 42,
+      "r_s0": 74,
+      "parent_r": 71,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 44,
+      "r_s0": 77,
+      "parent_r": 75,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 46,
+      "r_s0": 81,
+      "parent_r": 78,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 48,
+      "r_s0": 84,
+      "parent_r": 82,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 50,
+      "r_s0": 88,
+      "parent_r": 85,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 52,
+      "r_s0": 91,
+      "parent_r": 88,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 54,
+      "r_s0": 95,
+      "parent_r": 92,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 56,
+      "r_s0": 98,
+      "parent_r": 95,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 58,
+      "r_s0": 101,
+      "parent_r": 99,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 60,
+      "r_s0": 105,
+      "parent_r": 102,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 62,
+      "r_s0": 108,
+      "parent_r": 105,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 64,
+      "r_s0": 112,
+      "parent_r": 109,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 66,
+      "r_s0": 115,
+      "parent_r": 112,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 68,
+      "r_s0": 118,
+      "parent_r": 116,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 70,
+      "r_s0": 122,
+      "parent_r": 119,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 72,
+      "r_s0": 125,
+      "parent_r": 123,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 74,
+      "r_s0": 129,
+      "parent_r": 126,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 76,
+      "r_s0": 132,
+      "parent_r": 129,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 78,
+      "r_s0": 136,
+      "parent_r": 133,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 80,
+      "r_s0": 139,
+      "parent_r": 136,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 82,
+      "r_s0": 142,
+      "parent_r": 140,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 84,
+      "r_s0": 146,
+      "parent_r": 143,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 86,
+      "r_s0": 149,
+      "parent_r": 147,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 88,
+      "r_s0": 153,
+      "parent_r": 150,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 90,
+      "r_s0": 156,
+      "parent_r": 153,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 92,
+      "r_s0": 159,
+      "parent_r": 157,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 94,
+      "r_s0": 163,
+      "parent_r": 160,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 96,
+      "r_s0": 166,
+      "parent_r": 164,
+      "modulus_ratio": 3
+    },
+    {
+      "k": 98,
+      "r_s0": 170,
+      "parent_r": 167,
+      "modulus_ratio": 9
+    },
+    {
+      "k": 100,
+      "r_s0": 173,
+      "parent_r": 170,
+      "modulus_ratio": 9
+    }
+  ],
+  "k_mod6_controls": 85,
+  "odd_k_controls": 150,
+  "coverage_unchanged": {
+    "32": "99.5948881249",
+    "100": "99.9897800719"
+  },
+  "base_file": "tmp\\k8_tail\\coverage_extension.json",
+  "base_sha256": "9f93f9ebe5d81ab71027b7ad786891fb4d3304e2f394ffda3ee3a3e94a682552",
+  "elapsed_seconds": 0.02938103675842285,
+  "scope": "Finite controls supplement the analytic all-k/all-s containment proof; no new density increment."
+}

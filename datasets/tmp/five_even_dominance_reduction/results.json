@@ -1,0 +1,19 @@
+{
+  "branch_cells": 6633,
+  "dominance": 1666,
+  "takeovers": 55,
+  "transferred_series": 500,
+  "word_replays": 776,
+  "compatible_words": [
+    [
+      "1100010",
+      47
+    ],
+    [
+      "0101010",
+      74
+    ]
+  ],
+  "seconds": 0.26600000000325963,
+  "v10_unchanged": true
+}

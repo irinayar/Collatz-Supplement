@@ -1,0 +1,6 @@
+{
+  "starts": 1002,
+  "positive_odd_count_tests": 40395,
+  "zero_odd_count_tests": 994,
+  "stop": "first repeated output; preceding input states distinct"
+}

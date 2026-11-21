@@ -1,0 +1,26 @@
+{
+  "common_source_verified": true,
+  "total_calls": 44088,
+  "fixed_baseline_six_even_union_states": 504,
+  "all_fixed_states_excluded_by_six_cutoff": true,
+  "terminal_calls": [
+    322,
+    621
+  ],
+  "seconds": [
+    1.6559999999590218,
+    1.6560000000172295
+  ],
+  "new_proof_nodes": [
+    20615,
+    20622
+  ],
+  "root_exclusions": [
+    0,
+    0
+  ],
+  "found": [
+    null,
+    null
+  ]
+}

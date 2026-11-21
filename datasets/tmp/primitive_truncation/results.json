@@ -1,0 +1,59 @@
+{
+  "rows": [
+    {
+      "j": 1,
+      "compatible_high_pairs": 0
+    },
+    {
+      "j": 2,
+      "compatible_high_pairs": 1
+    },
+    {
+      "j": 3,
+      "compatible_high_pairs": 6
+    },
+    {
+      "j": 4,
+      "compatible_high_pairs": 23
+    },
+    {
+      "j": 5,
+      "compatible_high_pairs": 85
+    },
+    {
+      "j": 6,
+      "compatible_high_pairs": 268
+    },
+    {
+      "j": 7,
+      "compatible_high_pairs": 859
+    },
+    {
+      "j": 8,
+      "compatible_high_pairs": 2554
+    },
+    {
+      "j": 9,
+      "compatible_high_pairs": 7566
+    },
+    {
+      "j": 10,
+      "compatible_high_pairs": 21690
+    }
+  ],
+  "small_transform_checks": 10289,
+  "small_transform_failure": {
+    "j": 15,
+    "n": 64,
+    "m": 25,
+    "source_odd": 5,
+    "partner_odd": 7,
+    "endpoint": 2,
+    "truncated_origin": 76,
+    "source_word": "000000101010101",
+    "partner_word": "101100110100100",
+    "truncated_word": "001100110100100"
+  },
+  "seconds": 0.4132044315338135,
+  "limits": "Windows job 1GiB; 55 CPU and wall seconds"
+}

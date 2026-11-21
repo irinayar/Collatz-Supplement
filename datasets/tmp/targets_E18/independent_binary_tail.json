@@ -1,0 +1,12 @@
+{
+  "32": {
+    "theta": "69604644749247/9007199254740992",
+    "binary_disjoint_cylinders": 181,
+    "certified_rounded_percent_10dp": "99.5948819413"
+  },
+  "100": {
+    "theta": "123530673091948493683226661/633825300114114700748351602688",
+    "binary_disjoint_cylinders": 181,
+    "certified_rounded_percent_10dp": "99.9897799159"
+  }
+}

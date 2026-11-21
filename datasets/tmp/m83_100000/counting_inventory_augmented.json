@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "scope": "Augmented research union U_T plus C91 and C92; not yet a manuscript revision. C93 and target restrictions are not density components.",
+  "finite_ledger": [
+    {
+      "id": "C09",
+      "residue": 91,
+      "modulus": 93312
+    },
+    {
+      "id": "C10",
+      "residue": 1275,
+      "modulus": 1296
+    },
+    {
+      "id": "C11",
+      "residue": 273,
+      "modulus": 4374
+    },
+    {
+      "id": "C12",
+      "residue": 121,
+      "modulus": 162
+    },
+    {
+      "id": "C61",
+      "residue": 2,
+      "modulus": 3
+    },
+    {
+      "id": "C57",
+      "residue": 2152827,
+      "modulus": 2519424
+    },
+    {
+      "id": "C58",
+      "residue": 263259,
+      "modulus": 5038848
+    },
+    {
+      "id": "C62",
+      "residue": 130723463547,
+      "modulus": 148769467776
+    },
+    {
+      "id": "C63",
+      "residue": 4554834526951,
+      "modulus": 5355700839936
+    },
+    {
+      "id": "C64",
+      "residue": 2503585,
+      "modulus": 9565938
+    },
+    {
+      "id": "C71",
+      "residue": 411,
+      "modulus": 512
+    },
+    {
+      "id": "C72",
+      "residue": 155,
+      "modulus": 2048
+    },
+    {
+      "id": "C73",
+      "residue": 1787,
+      "modulus": 2048
+    },
+    {
+      "id": "C74",
+      "residue": 839,
+      "modulus": 16384
+    },
+    {
+      "id": "C75",
+      "residue": 615,
+      "modulus": 2048
+    },
+    {
+      "id": "C76",
+      "residue": 2587,
+      "modulus": 18432
+    },
+    {
+      "id": "C77",
+      "residue": 119323,
+      "modulus": 165888
+    },
+    {
+      "id": "C78",
+      "residue": 539,
+      "modulus": 2048
+    },
+    {
+      "id": "C79",
+      "residue": 65639,
+      "modulus": 131072
+    },
+    {
+      "id": "C81",
+      "residue": 615,
+      "modulus": 1024
+    },
+    {
+      "id": "C82",
+      "residue": 539,
+      "modulus": 1024
+    },
+    {
+      "id": "C83",
+      "residue": 4,
+      "modulus": 9
+    },
+    {
+      "id": "C84",
+      "residue": 10,
+      "modulus": 81
+    },
+    {
+      "id": "C01",
+      "residue": 0,
+      "modulus": 2
+    },
+    {
+      "id": "C02",
+      "residue": 1,
+      "modulus": 4
+    },
+    {
+      "id": "C03",
+      "residue": 3,
+      "modulus": 16
+    },
+    {
+      "id": "C04a",
+      "residue": 11,
+      "modulus": 32
+    },
+    {
+      "id": "C04b",
+      "residue": 23,
+      "modulus": 32
+    },
+    {
+      "id": "C91",
+      "residue": 32767,
+      "modulus": 140737488355328
+    },
+    {
+      "id": "C92",
+      "residue": 2097151,
+      "modulus": 9007199254740992
+    }
+  ],
+  "C08": {
+    "kind": "infinite_prefix_free_binary_family",
+    "words": "1^k00, k>=1",
+    "modulus": "2^(k+2)",
+    "residue": "-(3^k-2^k)*inverse_mod(3^k,2^(k+2)) modulo 2^(k+2)",
+    "tail": "For J>=all finite binary precisions and J>=T when stopping is imposed, residual all-ones J-cylinder contributes one half; see combined_coverage.py."
+  },
+  "C85": {
+    "parent_residue": 103,
+    "parent_modulus": 8192,
+    "depth": 27,
+    "modulus": 134217728,
+    "successful_cylinders": 14402,
+    "total_parent_children": 16384,
+    "unresolved_children": 1982,
+    "file": "tmp/v2_audit/parent27_certificates.json",
+    "certificate_schema": {
+      "n": "residue modulo 2^27",
+      "meeting": "null or [candidate_step_j, smaller_base_origin_m, odd_count_a]; S(m)=S^j(n)",
+      "descent": "null or candidate descent step_j"
+    },
+    "note": "Nonzero C85 contribution must be recomputed after subtracting the finite ledger and stopping rules; it is disjoint from C08 by its initial bits."
+  },
+  "C86": {
+    "kind": "first_coefficient_crossing_union",
+    "depths": [
+      32,
+      100
+    ],
+    "word_condition": "exists j<=T with 3^a_j<2^j",
+    "actual_descent": "n*(2^j-3^a_j)>U_j",
+    "U_recursion": "on odd input U_j=3*U_(j-1)+2^(j-1); on even input U_j=U_(j-1)",
+    "thresholds_file": "tmp/v2_audit/stopping_depth_proof.json",
+    "generator": "tmp/v2_audit/stopping_depth.py",
+    "note": "Finite exceptions do not change natural density; supplied base replay handles the recorded safe thresholds."
+  },
+  "baseline_expected": {
+    "32": {
+      "old_density": "1274847642943/1338925209984",
+      "stopping_density": "4253619813/4294967296",
+      "finite_extra": "33989270996137111/7487812485248974848",
+      "infinite_C08_extra": "36592217341/40122452017152",
+      "C85_extra": "19490041/53496602689536",
+      "combined_density": "14913097181647422179/14975624970497949696"
+    },
+    "100": {
+      "old_density": "1274847642943/1338925209984",
+      "stopping_density": "1267348039558728858239157033189/1267650600228229401496703205376",
+      "finite_extra": "1484634927447309965859266565217361629/13260073016382231950964812368295208419328",
+      "infinite_C08_extra": "1012729613587945214015052347609/47368230654086048064431914324328448",
+      "C85_extra": "12514693915384836051724099/2960514415880378004026994645270528",
+      "combined_density": "3314669078842872619560625109001182282911/3315018254095557987741203092073802104832"
+    }
+  },
+  "expected": {
+    "32": {
+      "old_density": "700854903529330267637939/736081918549915223457792",
+      "stopping_density": "4253619813/4294967296",
+      "finite_extra": "1113760432002381868433/245360639516638407819264",
+      "infinite_C08_extra": "36592217341/40122452017152",
+      "C85_extra": "19490041/53496602689536",
+      "combined_density": "244336184224112325995921/245360639516638407819264"
+    },
+    "100": {
+      "old_density": "700854903529330267637939/736081918549915223457792",
+      "stopping_density": "1267348039558728858239157033189/1267650600228229401496703205376",
+      "finite_extra": "1484634927447563252441056614347518813/13260073016382231950964812368295208419328",
+      "infinite_C08_extra": "1012729613587945214015052347609/47368230654086048064431914324328448",
+      "C85_extra": "12514693915384836051724099/2960514415880378004026994645270528",
+      "combined_density": "3314669078842872682882270556513464822207/3315018254095557987741203092073802104832"
+    }
+  },
+  "additional_meeting_certificates": [
+    {
+      "label": "C91",
+      "n0": 32767,
+      "P": 140737488355328,
+      "m0": 31959,
+      "Q": 137260754729766,
+      "j": 47,
+      "ell": 1,
+      "forward": "11111111111111101000010011000110111111011000100",
+      "target": "1"
+    },
+    {
+      "label": "C92",
+      "n0": 2097151,
+      "P": 9007199254740992,
+      "m0": 1725759,
+      "Q": 7412080755407364,
+      "j": 53,
+      "ell": 2,
+      "forward": "11111111111111111111101011000101101001110000111000000",
+      "target": "11"
+    }
+  ],
+  "verification_script": "tmp/m83_100000/audit_incoming.py"
+}

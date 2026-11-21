@@ -1,0 +1,6 @@
+{
+  "unique_families": 23,
+  "affine_parameter_checks": 23000,
+  "independent_reverse_tree_cases": 6000,
+  "base_targets_certified_to_one": 23
+}

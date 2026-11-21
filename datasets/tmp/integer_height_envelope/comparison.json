@@ -1,0 +1,53 @@
+{
+  "old_exclusions": 28,
+  "new_exclusions": 28,
+  "additional_over_existing": 0,
+  "additional_states": [],
+  "combined_exclusions": 28,
+  "per_level": {
+    "82": {
+      "total": 41,
+      "remaining": 41
+    },
+    "83": {
+      "total": 37,
+      "remaining": 34
+    },
+    "84": {
+      "total": 41,
+      "remaining": 36
+    },
+    "85": {
+      "total": 35,
+      "remaining": 30
+    },
+    "86": {
+      "total": 30,
+      "remaining": 29
+    },
+    "87": {
+      "total": 41,
+      "remaining": 35
+    },
+    "88": {
+      "total": 36,
+      "remaining": 33
+    },
+    "89": {
+      "total": 31,
+      "remaining": 27
+    },
+    "90": {
+      "total": 25,
+      "remaining": 25
+    },
+    "91": {
+      "total": 21,
+      "remaining": 21
+    },
+    "92": {
+      "total": 28,
+      "remaining": 27
+    }
+  }
+}

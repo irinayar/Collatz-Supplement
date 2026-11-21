@@ -1,0 +1,10 @@
+﻿# Reproducibility instructions
+
+1. **Integrity.** From the repository root run `sha256sum -c MANIFEST_SHA256.txt` (every listed file must report OK).
+2. **Ledger checks (Python 3, standard library only).** Unzip `scripts/ledger_scripts.zip` inside `datasets/` so that `datasets/tmp/targets_E18/*.py` sit next to the JSON files. From `datasets/` run, for example, `python tmp/targets_E18/check_snapshot.py` and `python tmp/targets_E18/check_density.py`. The scripts read the inventories named in `tmp/targets_E18/counting_inventory_with_C110.json` and verify the reported densities with exact rational arithmetic. Respect the hardware limits stated in each script header; none needs more than a few seconds and 1 GB.
+3. **ChatGPT scripts.** Unzip `scripts/chatgpt_python_scripts.zip`; each folder corresponds to one attachment and runs with the Python standard library. Many are small finite checks; read each header for its claim and parameters.
+4. **C# programs.** Unzip `scripts/claude_csharp_programs.zip`. For each program create an empty folder, copy `template.csproj` there, copy the chosen `.cs` file as `Program.cs` and run `dotnet run -c Release -- <arguments>` (arguments are described in the file's first comment lines where present; ledger checks read `datasets/tmp/...` paths given on the command line).
+5. **Lean 4.** `lean/CollatzElementary.lean` formalizes elementary lemmas (growth bounds, collision matching, singleton fibres above multiples of 3, the all-odd family, repeat rigidity, one factor of the product bound, the affine parity identity). It needs Lean 4.35 and Mathlib; run `lean/check_lean.sh CollatzElementary.lean` after setting `LEAN` and `MATHLIB_PACKAGES` as described in `lean/README.md`. A successful check prints exit code 0 and `#print axioms` lists only `propext`, `Classical.choice` and `Quot.sound`.
+6. **What is not covered.** Monte Carlo and bounded-range programs corroborate, and do not replace, exact computations; the manuscript states the status of each result.
+
+Status note: the Python scripts were run by their authors in their own environments; they have not all been re-run in this exact layout.

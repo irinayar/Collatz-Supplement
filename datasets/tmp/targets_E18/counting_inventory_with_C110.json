@@ -1,0 +1,1804 @@
+{
+  "schema_version": 3,
+  "scope": "E18 named finite rule union plus C110 infinite disjoint alternating-tail family; conditional-rule natural density expressed by a convergent exact series with certified rational bounds.",
+  "finite_ledger": [
+    {
+      "id": "C09",
+      "residue": 91,
+      "modulus": 93312
+    },
+    {
+      "id": "C10",
+      "residue": 1275,
+      "modulus": 1296
+    },
+    {
+      "id": "C11",
+      "residue": 273,
+      "modulus": 4374
+    },
+    {
+      "id": "C12",
+      "residue": 121,
+      "modulus": 162
+    },
+    {
+      "id": "C61",
+      "residue": 2,
+      "modulus": 3
+    },
+    {
+      "id": "C57",
+      "residue": 2152827,
+      "modulus": 2519424
+    },
+    {
+      "id": "C58",
+      "residue": 263259,
+      "modulus": 5038848
+    },
+    {
+      "id": "C62",
+      "residue": 130723463547,
+      "modulus": 148769467776
+    },
+    {
+      "id": "C63",
+      "residue": 4554834526951,
+      "modulus": 5355700839936
+    },
+    {
+      "id": "C64",
+      "residue": 2503585,
+      "modulus": 9565938
+    },
+    {
+      "id": "C71",
+      "residue": 411,
+      "modulus": 512
+    },
+    {
+      "id": "C72",
+      "residue": 155,
+      "modulus": 2048
+    },
+    {
+      "id": "C73",
+      "residue": 1787,
+      "modulus": 2048
+    },
+    {
+      "id": "C74",
+      "residue": 839,
+      "modulus": 16384
+    },
+    {
+      "id": "C75",
+      "residue": 615,
+      "modulus": 2048
+    },
+    {
+      "id": "C76",
+      "residue": 2587,
+      "modulus": 18432
+    },
+    {
+      "id": "C77",
+      "residue": 119323,
+      "modulus": 165888
+    },
+    {
+      "id": "C78",
+      "residue": 539,
+      "modulus": 2048
+    },
+    {
+      "id": "C79",
+      "residue": 65639,
+      "modulus": 131072
+    },
+    {
+      "id": "C81",
+      "residue": 615,
+      "modulus": 1024
+    },
+    {
+      "id": "C82",
+      "residue": 539,
+      "modulus": 1024
+    },
+    {
+      "id": "C83",
+      "residue": 4,
+      "modulus": 9
+    },
+    {
+      "id": "C84",
+      "residue": 10,
+      "modulus": 81
+    },
+    {
+      "id": "C01",
+      "residue": 0,
+      "modulus": 2
+    },
+    {
+      "id": "C02",
+      "residue": 1,
+      "modulus": 4
+    },
+    {
+      "id": "C03",
+      "residue": 3,
+      "modulus": 16
+    },
+    {
+      "id": "C04a",
+      "residue": 11,
+      "modulus": 32
+    },
+    {
+      "id": "C04b",
+      "residue": 23,
+      "modulus": 32
+    },
+    {
+      "id": "C91",
+      "residue": 32767,
+      "modulus": 140737488355328
+    },
+    {
+      "id": "C92",
+      "residue": 2097151,
+      "modulus": 9007199254740992
+    },
+    {
+      "id": "C103-1",
+      "residue": 91,
+      "modulus": 2592
+    },
+    {
+      "id": "C103-2",
+      "residue": 1063,
+      "modulus": 2592
+    },
+    {
+      "id": "C103-3",
+      "residue": 1147,
+      "modulus": 1152
+    },
+    {
+      "id": "C103-4",
+      "residue": 103,
+      "modulus": 576
+    },
+    {
+      "id": "C108-01",
+      "residue": 604,
+      "modulus": 729,
+      "minimum": 604
+    },
+    {
+      "id": "C108-02",
+      "residue": 433,
+      "modulus": 729,
+      "minimum": 433
+    },
+    {
+      "id": "C108-03",
+      "residue": 1321,
+      "modulus": 1458,
+      "minimum": 1321
+    },
+    {
+      "id": "C108-04",
+      "residue": 273,
+      "modulus": 1458,
+      "minimum": 273
+    },
+    {
+      "id": "C108-05",
+      "residue": 1090,
+      "modulus": 2187,
+      "minimum": 1090
+    },
+    {
+      "id": "C108-06",
+      "residue": 919,
+      "modulus": 2187,
+      "minimum": 919
+    },
+    {
+      "id": "C108-07",
+      "residue": 1807,
+      "modulus": 4374,
+      "minimum": 1807
+    },
+    {
+      "id": "C108-08",
+      "residue": 2217,
+      "modulus": 4374,
+      "minimum": 2217
+    },
+    {
+      "id": "C108-09",
+      "residue": 1171,
+      "modulus": 2187,
+      "minimum": 1171
+    },
+    {
+      "id": "C108-10",
+      "residue": 1000,
+      "modulus": 2187,
+      "minimum": 1000
+    },
+    {
+      "id": "C108-11",
+      "residue": 4075,
+      "modulus": 4374,
+      "minimum": 4075
+    },
+    {
+      "id": "C108-12",
+      "residue": 111,
+      "modulus": 4374,
+      "minimum": 111
+    },
+    {
+      "id": "C108-13",
+      "residue": 325,
+      "modulus": 2187,
+      "minimum": 325
+    },
+    {
+      "id": "C108-14",
+      "residue": 1213,
+      "modulus": 4374,
+      "minimum": 1213
+    },
+    {
+      "id": "C108-15",
+      "residue": 2170,
+      "modulus": 2187,
+      "minimum": 2170
+    },
+    {
+      "id": "C108-16",
+      "residue": 1623,
+      "modulus": 4374,
+      "minimum": 1623
+    },
+    {
+      "id": "C108-17",
+      "residue": 2221,
+      "modulus": 4374,
+      "minimum": 2221
+    },
+    {
+      "id": "C108-18",
+      "residue": 991,
+      "modulus": 2187,
+      "minimum": 991
+    },
+    {
+      "id": "C108-19",
+      "residue": 2631,
+      "modulus": 4374,
+      "minimum": 2631
+    },
+    {
+      "id": "C108-20",
+      "residue": 205,
+      "modulus": 2187,
+      "minimum": 205
+    },
+    {
+      "id": "C108-21",
+      "residue": 1845,
+      "modulus": 4374,
+      "minimum": 1845
+    },
+    {
+      "id": "C109-01",
+      "residue": 154,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111110100010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111110100010",
+        "n0": 154,
+        "P": 19683,
+        "m0": 127,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-02",
+      "residue": 1384,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111110101000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111110101000",
+        "n0": 1384,
+        "P": 19683,
+        "m0": 1151,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-03",
+      "residue": 1663,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101111101000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101111101000",
+        "n0": 1663,
+        "P": 19683,
+        "m0": 1383,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-04",
+      "residue": 2134,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111100010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110111100010",
+        "n0": 2134,
+        "P": 19683,
+        "m0": 1775,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-05",
+      "residue": 2548,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101011011010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101011011010",
+        "n0": 2548,
+        "P": 19683,
+        "m0": 2119,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-06",
+      "residue": 3268,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011100010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111011100010",
+        "n0": 3268,
+        "P": 19683,
+        "m0": 2719,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-07",
+      "residue": 3364,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111101000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110111101000",
+        "n0": 3364,
+        "P": 19683,
+        "m0": 2799,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-08",
+      "residue": 3970,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101110101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101110101010",
+        "n0": 3970,
+        "P": 19683,
+        "m0": 3303,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-09",
+      "residue": 4498,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011101000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111011101000",
+        "n0": 4498,
+        "P": 19683,
+        "m0": 3743,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-10",
+      "residue": 4816,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101101011010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101101011010",
+        "n0": 4816,
+        "P": 19683,
+        "m0": 4007,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-11",
+      "residue": 5671,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110110101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110110101010",
+        "n0": 5671,
+        "P": 19683,
+        "m0": 4719,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-12",
+      "residue": 5815,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101110111000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101110111000",
+        "n0": 5815,
+        "P": 19683,
+        "m0": 4839,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-13",
+      "residue": 6382,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101001010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111101001010",
+        "n0": 6382,
+        "P": 19683,
+        "m0": 5311,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-14",
+      "residue": 6517,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110101011010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110101011010",
+        "n0": 6517,
+        "P": 19683,
+        "m0": 5423,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-15",
+      "residue": 6805,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111010101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111010101010",
+        "n0": 6805,
+        "P": 19683,
+        "m0": 5663,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-16",
+      "residue": 7516,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110110111000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110110111000",
+        "n0": 7516,
+        "P": 19683,
+        "m0": 6255,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-17",
+      "residue": 8227,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101011000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111101011000",
+        "n0": 8227,
+        "P": 19683,
+        "m0": 6847,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-18",
+      "residue": 8650,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111010111000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111010111000",
+        "n0": 8650,
+        "P": 19683,
+        "m0": 7199,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-19",
+      "residue": 11053,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111001010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110111001010",
+        "n0": 11053,
+        "P": 19683,
+        "m0": 9199,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-20",
+      "residue": 11197,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101111011000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101111011000",
+        "n0": 11197,
+        "P": 19683,
+        "m0": 9319,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-21",
+      "residue": 12187,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011001010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111011001010",
+        "n0": 12187,
+        "P": 19683,
+        "m0": 10143,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-22",
+      "residue": 12898,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111011000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110111011000",
+        "n0": 12898,
+        "P": 19683,
+        "m0": 10735,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-23",
+      "residue": 13312,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101011101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101011101010",
+        "n0": 13312,
+        "P": 19683,
+        "m0": 11079,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-24",
+      "residue": 14032,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011011000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111011011000",
+        "n0": 14032,
+        "P": 19683,
+        "m0": 11679,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-25",
+      "residue": 15580,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101101101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11101101101010",
+        "n0": 15580,
+        "P": 19683,
+        "m0": 12967,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-26",
+      "residue": 17146,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101100010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111101100010",
+        "n0": 17146,
+        "P": 19683,
+        "m0": 14271,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-27",
+      "residue": 17281,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110101101010111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11110101101010",
+        "n0": 17281,
+        "P": 19683,
+        "m0": 14383,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-28",
+      "residue": 18376,
+      "modulus": 19683,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101101000111",
+        "original_L": 17,
+        "cancelled": 3,
+        "source": "",
+        "target": "11111101101000",
+        "n0": 18376,
+        "P": 19683,
+        "m0": 15295,
+        "Q": 16384
+      }
+    },
+    {
+      "id": "C109-29",
+      "residue": 673,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110101110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101011101100",
+        "n0": 673,
+        "P": 39366,
+        "m0": 559,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-30",
+      "residue": 2595,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110110111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101101110100",
+        "n0": 2595,
+        "P": 39366,
+        "m0": 2159,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-31",
+      "residue": 3229,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111110110010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111101100100",
+        "n0": 3229,
+        "P": 39366,
+        "m0": 2687,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-32",
+      "residue": 3729,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111010111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110101110100",
+        "n0": 3729,
+        "P": 39366,
+        "m0": 3103,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-33",
+      "residue": 5209,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111110010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101111100100",
+        "n0": 5209,
+        "P": 39366,
+        "m0": 4335,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-34",
+      "residue": 6343,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011110010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110111100100",
+        "n0": 6343,
+        "P": 39366,
+        "m0": 5279,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-35",
+      "residue": 7045,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101110110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011101101100",
+        "n0": 7045,
+        "P": 39366,
+        "m0": 5863,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-36",
+      "residue": 7977,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111011010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101110110100",
+        "n0": 7977,
+        "P": 39366,
+        "m0": 6639,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-37",
+      "residue": 9111,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011011010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110110110100",
+        "n0": 9111,
+        "P": 39366,
+        "m0": 7583,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-38",
+      "residue": 9457,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101010110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111010101100",
+        "n0": 9457,
+        "P": 39366,
+        "m0": 7871,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-39",
+      "residue": 12427,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101111010110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011110101100",
+        "n0": 12427,
+        "P": 39366,
+        "m0": 10343,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-40",
+      "residue": 13455,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101101010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111011010100",
+        "n0": 13455,
+        "P": 39366,
+        "m0": 11199,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-41",
+      "residue": 14205,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110101111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101011110100",
+        "n0": 14205,
+        "P": 39366,
+        "m0": 11823,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-42",
+      "residue": 16387,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101011110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111010111101100",
+        "n0": 16387,
+        "P": 39366,
+        "m0": 13639,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-43",
+      "residue": 16425,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101111101010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011111010100",
+        "n0": 16425,
+        "P": 39366,
+        "m0": 13671,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-44",
+      "residue": 16761,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111110111000011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111101110000",
+        "n0": 16761,
+        "P": 39366,
+        "m0": 13951,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-45",
+      "residue": 18145,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111111010010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111110100100",
+        "n0": 18145,
+        "P": 39366,
+        "m0": 15103,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-46",
+      "residue": 18655,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101101110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011011101100",
+        "n0": 18655,
+        "P": 39366,
+        "m0": 15527,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-47",
+      "residue": 18741,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111111000011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101111110000",
+        "n0": 18741,
+        "P": 39366,
+        "m0": 15599,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-48",
+      "residue": 19875,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011111000011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110111110000",
+        "n0": 19875,
+        "P": 39366,
+        "m0": 16543,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-49",
+      "residue": 20221,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101110010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111011100100",
+        "n0": 20221,
+        "P": 39366,
+        "m0": 16831,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-50",
+      "residue": 20577,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101110111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011101110100",
+        "n0": 20577,
+        "P": 39366,
+        "m0": 17127,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-51",
+      "residue": 22989,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101011010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111010110100",
+        "n0": 22989,
+        "P": 39366,
+        "m0": 19135,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-52",
+      "residue": 25959,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101111011010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011110110100",
+        "n0": 25959,
+        "P": 39366,
+        "m0": 21607,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-53",
+      "residue": 28429,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110110110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101101101100",
+        "n0": 28429,
+        "P": 39366,
+        "m0": 23663,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-54",
+      "residue": 29563,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111010110110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110101101100",
+        "n0": 29563,
+        "P": 39366,
+        "m0": 24607,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-55",
+      "residue": 29919,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101011111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111010111110100",
+        "n0": 29919,
+        "P": 39366,
+        "m0": 24903,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-56",
+      "residue": 31677,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111111011000011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111110110000",
+        "n0": 31677,
+        "P": 39366,
+        "m0": 26367,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-57",
+      "residue": 32187,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11101101111010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111011011110100",
+        "n0": 32187,
+        "P": 39366,
+        "m0": 26791,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-58",
+      "residue": 33753,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111101111000011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111011110000",
+        "n0": 33753,
+        "P": 39366,
+        "m0": 28095,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-59",
+      "residue": 33811,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111010110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101110101100",
+        "n0": 33811,
+        "P": 39366,
+        "m0": 28143,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-60",
+      "residue": 34945,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011010110011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110110101100",
+        "n0": 34945,
+        "P": 39366,
+        "m0": 29087,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-61",
+      "residue": 35829,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111110101010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111111101010100",
+        "n0": 35829,
+        "P": 39366,
+        "m0": 29823,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-62",
+      "residue": 37809,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11110111101010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111101111010100",
+        "n0": 37809,
+        "P": 39366,
+        "m0": 31471,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-63",
+      "residue": 38943,
+      "modulus": 39366,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111011101010011",
+        "original_L": 17,
+        "cancelled": 2,
+        "source": "1",
+        "target": "111110111010100",
+        "n0": 38943,
+        "P": 39366,
+        "m0": 32415,
+        "Q": 32768
+      }
+    },
+    {
+      "id": "C109-64",
+      "residue": 62739,
+      "modulus": 78732,
+      "certificate": {
+        "original_j": 3,
+        "original_target": "11111111110100001",
+        "original_L": 17,
+        "cancelled": 1,
+        "source": "11",
+        "target": "1111111111010000",
+        "n0": 62739,
+        "P": 78732,
+        "m0": 52223,
+        "Q": 65536
+      }
+    }
+  ],
+  "C08": {
+    "kind": "infinite_prefix_free_binary_family",
+    "words": "1^k00, k>=1",
+    "modulus": "2^(k+2)",
+    "residue": "-(3^k-2^k)*inverse_mod(3^k,2^(k+2)) modulo 2^(k+2)",
+    "tail": "For J>=all finite binary precisions and J>=T when stopping is imposed, residual all-ones J-cylinder contributes one half; see combined_coverage.py."
+  },
+  "C85": {
+    "parent_residue": 103,
+    "parent_modulus": 8192,
+    "depth": 27,
+    "modulus": 134217728,
+    "successful_cylinders": 14402,
+    "total_parent_children": 16384,
+    "unresolved_children": 1982,
+    "file": "tmp/v2_audit/parent27_certificates.json",
+    "certificate_schema": {
+      "n": "residue modulo 2^27",
+      "meeting": "null or [candidate_step_j, smaller_base_origin_m, odd_count_a]; S(m)=S^j(n)",
+      "descent": "null or candidate descent step_j"
+    },
+    "note": "Nonzero C85 contribution must be recomputed after subtracting the finite ledger and stopping rules; it is disjoint from C08 by its initial bits."
+  },
+  "C86": {
+    "kind": "first_coefficient_crossing_union",
+    "depths": [
+      32,
+      100
+    ],
+    "word_condition": "exists j<=T with 3^a_j<2^j",
+    "actual_descent": "n*(2^j-3^a_j)>U_j",
+    "U_recursion": "on odd input U_j=3*U_(j-1)+2^(j-1); on even input U_j=U_(j-1)",
+    "thresholds_file": "tmp/v2_audit/stopping_depth_proof.json",
+    "generator": "tmp/v2_audit/stopping_depth.py",
+    "note": "Finite exceptions do not change natural density; supplied base replay handles the recorded safe thresholds."
+  },
+  "baseline_expected": {
+    "32": {
+      "old_density": "1274847642943/1338925209984",
+      "stopping_density": "4253619813/4294967296",
+      "finite_extra": "33989270996137111/7487812485248974848",
+      "infinite_C08_extra": "36592217341/40122452017152",
+      "C85_extra": "19490041/53496602689536",
+      "combined_density": "14913097181647422179/14975624970497949696"
+    },
+    "100": {
+      "old_density": "1274847642943/1338925209984",
+      "stopping_density": "1267348039558728858239157033189/1267650600228229401496703205376",
+      "finite_extra": "1484634927447309965859266565217361629/13260073016382231950964812368295208419328",
+      "infinite_C08_extra": "1012729613587945214015052347609/47368230654086048064431914324328448",
+      "C85_extra": "12514693915384836051724099/2960514415880378004026994645270528",
+      "combined_density": "3314669078842872619560625109001182282911/3315018254095557987741203092073802104832"
+    }
+  },
+  "additional_meeting_certificates": [
+    {
+      "label": "C91",
+      "n0": 32767,
+      "P": 140737488355328,
+      "m0": 31959,
+      "Q": 137260754729766,
+      "j": 47,
+      "ell": 1,
+      "forward": "11111111111111101000010011000110111111011000100",
+      "target": "1"
+    },
+    {
+      "label": "C92",
+      "n0": 2097151,
+      "P": 9007199254740992,
+      "m0": 1725759,
+      "Q": 7412080755407364,
+      "j": 53,
+      "ell": 2,
+      "forward": "11111111111111111111101011000101101001110000111000000",
+      "target": "11"
+    }
+  ],
+  "verification_script": "tmp/m83_100000/audit_incoming.py",
+  "previous_expected": {
+    "32": {
+      "old_density": "700854903529330267637939/736081918549915223457792",
+      "stopping_density": "4253619813/4294967296",
+      "finite_extra": "1113760432002381868433/245360639516638407819264",
+      "infinite_C08_extra": "36592217341/40122452017152",
+      "C85_extra": "19490041/53496602689536",
+      "combined_density": "244336184224112325995921/245360639516638407819264"
+    },
+    "100": {
+      "old_density": "700854903529330267637939/736081918549915223457792",
+      "stopping_density": "1267348039558728858239157033189/1267650600228229401496703205376",
+      "finite_extra": "1484634927447563252441056614347518813/13260073016382231950964812368295208419328",
+      "infinite_C08_extra": "1012729613587945214015052347609/47368230654086048064431914324328448",
+      "C85_extra": "12514693915384836051724099/2960514415880378004026994645270528",
+      "combined_density": "3314669078842872682882270556513464822207/3315018254095557987741203092073802104832"
+    }
+  },
+  "expected": {
+    "32": {
+      "combined_lower": "17359265789150819694418481915872871263233234679867702312526362597626622660501572608148187900260697/17429877369986103041846374541667087896722338355619644977553568269159204642143728122277917529997312",
+      "combined_upper": "208311189469809836333021782990474455158798816158412427750316351171519471926018871297785988652544947/209158528439833236502156494500005054760668060267435739730642819229910455705724737467335010359967744",
+      "rounded_percent_10dp": "99.5948819413",
+      "expression": "E18 baseline + head_gain + theta * sum_(s>=20)3^(-r_s-s)"
+    },
+    "100": {
+      "combined_lower": "204398871744335685481181977392490246599166268468933072622690853240673853480187948303986954150082550102384031095/204419763616101183595086638046213821333449028485209546734860232851844053279754091497333131439646184810928406528",
+      "combined_upper": "4905572921864056451548367457419765918379990443254393742944580477776172483524510759295691474812095719068093902823/4906074326786428406282079313109131712002776683645029121636645588444257278714098195935995154551508435462281756672",
+      "rounded_percent_10dp": "99.9897799159",
+      "expression": "E18 baseline + head_gain + theta * sum_(s>=20)3^(-r_s-s)"
+    }
+  },
+  "C108_certificates": [
+    {
+      "original_j": 5,
+      "original_target": "11101101011111",
+      "original_L": 14,
+      "cancelled": 5,
+      "source": "",
+      "target": "111011010",
+      "n0": 604,
+      "P": 729,
+      "m0": 423,
+      "Q": 512
+    },
+    {
+      "original_j": 5,
+      "original_target": "11110101011111",
+      "original_L": 14,
+      "cancelled": 5,
+      "source": "",
+      "target": "111101010",
+      "n0": 433,
+      "P": 729,
+      "m0": 303,
+      "Q": 512
+    },
+    {
+      "original_j": 5,
+      "original_target": "11111011001111",
+      "original_L": 14,
+      "cancelled": 4,
+      "source": "1",
+      "target": "1111101100",
+      "n0": 1321,
+      "P": 1458,
+      "m0": 927,
+      "Q": 1024
+    },
+    {
+      "original_j": 5,
+      "original_target": "11111101001111",
+      "original_L": 14,
+      "cancelled": 4,
+      "source": "1",
+      "target": "1111110100",
+      "n0": 273,
+      "P": 1458,
+      "m0": 191,
+      "Q": 1024
+    },
+    {
+      "original_j": 5,
+      "original_target": "1101101101011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11011011010",
+      "n0": 1090,
+      "P": 2187,
+      "m0": 1019,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1101110101011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11011101010",
+      "n0": 919,
+      "P": 2187,
+      "m0": 859,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1101111011001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "110111101100",
+      "n0": 1807,
+      "P": 4374,
+      "m0": 1691,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1101111101001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "110111110100",
+      "n0": 2217,
+      "P": 4374,
+      "m0": 2075,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1110101101011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11101011010",
+      "n0": 1171,
+      "P": 2187,
+      "m0": 1095,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1110110101011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11101101010",
+      "n0": 1000,
+      "P": 2187,
+      "m0": 935,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1110111011001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111011101100",
+      "n0": 4075,
+      "P": 4374,
+      "m0": 3815,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1110111101001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111011110100",
+      "n0": 111,
+      "P": 4374,
+      "m0": 103,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111010101011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11110101010",
+      "n0": 325,
+      "P": 2187,
+      "m0": 303,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111011011001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111101101100",
+      "n0": 1213,
+      "P": 4374,
+      "m0": 1135,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111011100011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11110111000",
+      "n0": 2170,
+      "P": 2187,
+      "m0": 2031,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111011101001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111101110100",
+      "n0": 1623,
+      "P": 4374,
+      "m0": 1519,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111101011001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111110101100",
+      "n0": 2221,
+      "P": 4374,
+      "m0": 2079,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111101100011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11111011000",
+      "n0": 991,
+      "P": 2187,
+      "m0": 927,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111101101001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111110110100",
+      "n0": 2631,
+      "P": 4374,
+      "m0": 2463,
+      "Q": 4096
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111110100011111",
+      "original_L": 16,
+      "cancelled": 5,
+      "source": "",
+      "target": "11111101000",
+      "n0": 205,
+      "P": 2187,
+      "m0": 191,
+      "Q": 2048
+    },
+    {
+      "original_j": 5,
+      "original_target": "1111110101001111",
+      "original_L": 16,
+      "cancelled": 4,
+      "source": "1",
+      "target": "111111010100",
+      "n0": 1845,
+      "P": 4374,
+      "m0": 1727,
+      "Q": 4096
+    }
+  ],
+  "verification_scripts": [
+    "tmp/targets_E16/verify.py",
+    "tmp/targets_E16/account_total.py",
+    "tmp/targets_E16/check_density.py"
+  ],
+  "C103_certificates": [
+    {
+      "n0": 91,
+      "P": 2592,
+      "m0": 71,
+      "Q": 2048,
+      "source": "11011",
+      "target": "11101011011"
+    },
+    {
+      "n0": 1063,
+      "P": 2592,
+      "m0": 839,
+      "Q": 2048,
+      "source": "11101",
+      "target": "11101011101"
+    },
+    {
+      "n0": 1147,
+      "P": 1152,
+      "m0": 1019,
+      "Q": 1024,
+      "source": "1101101",
+      "target": "1101101101"
+    },
+    {
+      "n0": 103,
+      "P": 576,
+      "m0": 91,
+      "Q": 512,
+      "source": "111011",
+      "target": "110111011"
+    }
+  ],
+  "parent_inventory": "tmp/targets_E16/counting_inventory_updated.json",
+  "C110": {
+    "word": "1^r_s (01)^s 0",
+    "s_min": 0,
+    "r_s": "least integer r>=2 with 3^(r+s)>2^(r+2*s+1)",
+    "modulus": "3^(r_s+s)",
+    "residue": "1-3^(s+1)*inverse(2^(2*s+1)) modulo modulus",
+    "uniform_tail_start": 20,
+    "accounting_file": "tmp/targets_E18/infinite_family_accounting.json"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "theorem": "H(n)=floor((3^R*n-2^R)/2^(R+1)),R=floorlog2n. All smaller origins in growth-certified zero-tail family terminate at x<=H. Shift t requires4^t(3x+1)<=3H+1.",
+  "small_path_controls": 654,
+  "saved_endpoints": [
+    {
+      "n": 4064460795,
+      "saved_endpoint": 7821397930,
+      "R": 31,
+      "H": 584523496988834,
+      "parameter_triples": 4091,
+      "nonnegative_shifts_examined": 9,
+      "hits": [],
+      "endpoint_first_step": 26
+    },
+    {
+      "n": 18839651253368551,
+      "saved_endpoint": 27937390841126308,
+      "R": 54,
+      "H": 30406809448445961371261840,
+      "parameter_triples": 21642,
+      "nonnegative_shifts_examined": 16,
+      "hits": [],
+      "endpoint_first_step": 66
+    }
+  ],
+  "elapsed_seconds": 0.09315323829650879,
+  "shift_scope": "Algebraic queries G_t(x); no arbitrary shifted value is asserted to return to x without the canonical-meeting hypotheses."
+}

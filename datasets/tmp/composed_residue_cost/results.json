@@ -1,0 +1,24 @@
+{
+  "representative": {
+    "index": 187,
+    "z": 32959306498,
+    "k": 38,
+    "r": 81,
+    "d12": 9,
+    "d14_clipped": 9,
+    "excluded": false
+  },
+  "root_count": 44,
+  "root_bounds_improved": 32,
+  "root_cuts": [],
+  "fixed_sample": 200,
+  "additional_sample_cuts": 95,
+  "composition_calls": 7535,
+  "search_calls": 22044,
+  "new_proof_nodes": 21020,
+  "attempt_status": {
+    "pending": 44
+  },
+  "found": null,
+  "seconds": 2.077999999979511
+}

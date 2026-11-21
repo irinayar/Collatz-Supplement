@@ -1,0 +1,108 @@
+{
+  "independent_suffix_checks": 957,
+  "matching_full_words": 44,
+  "actual_paths": 1078,
+  "frontier_hits": [
+    {
+      "level": 92,
+      "t": 75,
+      "z": 1496632903889236,
+      "b": 69,
+      "e": 6,
+      "residue": 25,
+      "valuation": 4,
+      "excluded": true
+    },
+    {
+      "level": 92,
+      "t": 74,
+      "z": 997755269259490,
+      "b": 68,
+      "e": 6,
+      "residue": 16,
+      "valuation": 5,
+      "excluded": true
+    },
+    {
+      "level": 92,
+      "t": 71,
+      "z": 2660680718025304,
+      "b": 67,
+      "e": 4,
+      "residue": 67,
+      "valuation": 5,
+      "excluded": true
+    },
+    {
+      "level": 89,
+      "t": 62,
+      "z": 50454389911619506,
+      "b": 61,
+      "e": 1,
+      "residue": 40,
+      "valuation": 8,
+      "excluded": true
+    },
+    {
+      "level": 87,
+      "t": 60,
+      "z": 830524936813144,
+      "b": 54,
+      "e": 6,
+      "residue": 61,
+      "valuation": 4,
+      "excluded": true
+    },
+    {
+      "level": 84,
+      "t": 55,
+      "z": 8858932659283264,
+      "b": 50,
+      "e": 5,
+      "residue": 7,
+      "valuation": 5,
+      "excluded": true
+    },
+    {
+      "level": 84,
+      "t": 54,
+      "z": 5905955106188842,
+      "b": 49,
+      "e": 5,
+      "residue": 31,
+      "valuation": 4,
+      "excluded": true
+    },
+    {
+      "level": 82,
+      "t": 51,
+      "z": 5249737872152980,
+      "b": 45,
+      "e": 6,
+      "residue": 25,
+      "valuation": 4,
+      "excluded": true
+    },
+    {
+      "level": 82,
+      "t": 50,
+      "z": 3499825248101986,
+      "b": 44,
+      "e": 6,
+      "residue": 16,
+      "valuation": 8,
+      "excluded": true
+    },
+    {
+      "level": 82,
+      "t": 47,
+      "z": 9332867328271960,
+      "b": 43,
+      "e": 4,
+      "residue": 67,
+      "valuation": 4,
+      "excluded": true
+    }
+  ],
+  "seconds": 0.25
+}

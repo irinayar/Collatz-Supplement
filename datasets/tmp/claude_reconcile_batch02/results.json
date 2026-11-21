@@ -1,0 +1,54 @@
+{
+  "selected": 218,
+  "completed": 5,
+  "new_excluded": 5,
+  "total_excluded": 109,
+  "remaining": 257,
+  "proof_nodes": 199965,
+  "calls": 100001,
+  "seconds": 1.3899999999557622,
+  "results": [
+    {
+      "index": 274,
+      "level": 84,
+      "t": 78,
+      "z": 2309618678794,
+      "b": 57,
+      "excluded": true
+    },
+    {
+      "index": 275,
+      "level": 84,
+      "t": 77,
+      "z": 1539745785862,
+      "b": 56,
+      "excluded": true
+    },
+    {
+      "index": 354,
+      "level": 82,
+      "t": 75,
+      "z": 2052994381144,
+      "b": 53,
+      "excluded": true
+    },
+    {
+      "index": 355,
+      "level": 82,
+      "t": 74,
+      "z": 1368662920762,
+      "b": 52,
+      "excluded": true
+    },
+    {
+      "index": 94,
+      "level": 89,
+      "t": 92,
+      "z": 308296878088,
+      "b": 69,
+      "excluded": true
+    }
+  ],
+  "seed_sha256": "618ce7000e6ff2e26b66fc5ffa9aaf045b85502a484501ea8d3e4182fe0218c0",
+  "v10_unchanged": true
+}

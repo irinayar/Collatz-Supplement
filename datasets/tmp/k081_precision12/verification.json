@@ -1,0 +1,12 @@
+{
+  "independent_lattice_checks": 64,
+  "independent_root_extrema_checks": 44,
+  "extremal_candidates": 88,
+  "candidate_status_counts": {
+    "nonintegral": 88,
+    "nonpositive": 0,
+    "positive_integer": 0
+  },
+  "witnesses": [],
+  "base251_path_verified": true
+}

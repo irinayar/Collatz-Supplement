@@ -1,0 +1,61 @@
+{
+  "N": 2048,
+  "horizon": 128,
+  "predescent_distinct_prefix_checks": 5207,
+  "higher_count_meeting_cases": 97,
+  "outside_old_cutoff": 28,
+  "examples": [
+    {
+      "j": 13,
+      "n": 479,
+      "endpoint": 1154,
+      "source_odd": 9,
+      "partner": 159,
+      "partner_odd": 10,
+      "primitive_partner": 159,
+      "outside_old_cutoff": true
+    },
+    {
+      "j": 14,
+      "n": 479,
+      "endpoint": 577,
+      "source_odd": 9,
+      "partner": 159,
+      "partner_odd": 10,
+      "primitive_partner": 159,
+      "outside_old_cutoff": true
+    },
+    {
+      "j": 14,
+      "n": 1343,
+      "endpoint": 1615,
+      "source_odd": 9,
+      "partner": 447,
+      "partner_odd": 10,
+      "primitive_partner": 447,
+      "outside_old_cutoff": true
+    },
+    {
+      "j": 15,
+      "n": 479,
+      "endpoint": 866,
+      "source_odd": 10,
+      "partner": 159,
+      "partner_odd": 11,
+      "primitive_partner": 159,
+      "outside_old_cutoff": true
+    },
+    {
+      "j": 15,
+      "n": 1343,
+      "endpoint": 2423,
+      "source_odd": 10,
+      "partner": 447,
+      "partner_odd": 11,
+      "primitive_partner": 447,
+      "outside_old_cutoff": true
+    }
+  ],
+  "seconds": 0.1715404987335205,
+  "limits": "1GiB process memory,55 CPU and wall seconds"
+}

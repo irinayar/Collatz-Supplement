@@ -1,0 +1,56 @@
+{
+  "source": 4064460795,
+  "endpoint": 7821397930,
+  "total_length": 129,
+  "min_odd_count": 82,
+  "upper_origin": 4001390489,
+  "strict_margin": 63070306,
+  "source_meeting_steps": 26,
+  "source_meeting_odds": 17,
+  "rows": [
+    {
+      "odd_count": 82,
+      "upper_origin": 4001390489
+    },
+    {
+      "odd_count": 83,
+      "upper_origin": 1333796829
+    },
+    {
+      "odd_count": 84,
+      "upper_origin": 444598942
+    },
+    {
+      "odd_count": 85,
+      "upper_origin": 148199646
+    },
+    {
+      "odd_count": 86,
+      "upper_origin": 49399881
+    },
+    {
+      "odd_count": 87,
+      "upper_origin": 16466626
+    },
+    {
+      "odd_count": 88,
+      "upper_origin": 5488874
+    },
+    {
+      "odd_count": 89,
+      "upper_origin": 1829624
+    },
+    {
+      "odd_count": 90,
+      "upper_origin": 609874
+    },
+    {
+      "odd_count": 91,
+      "upper_origin": 203290
+    },
+    {
+      "odd_count": 92,
+      "upper_origin": 67762
+    }
+  ]
+}

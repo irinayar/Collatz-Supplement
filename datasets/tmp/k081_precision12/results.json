@@ -1,0 +1,21 @@
+{
+  "saved_states": 42599,
+  "numerator_precision": 4,
+  "baseline_residue_precision": 12,
+  "counts": {
+    "empty_coarse_cell": 5709,
+    "survives": 35400,
+    "empty_full_lattice": 1490
+  },
+  "cuts_by_baseline_rule": {
+    "multiple3": 3973,
+    "residue_even_cost": 3134,
+    "cutoff_empty": 92
+  },
+  "root_count": 44,
+  "root_cuts": [],
+  "independent_new_cut_checks": 0,
+  "actual_word_positive_controls": 24,
+  "seconds": 1.2189999999827705,
+  "v10_unchanged": true
+}

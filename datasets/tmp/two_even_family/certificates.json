@@ -1,0 +1,137 @@
+{
+  "verified": true,
+  "independent_prefix_words": 5692,
+  "certificates": [
+    {
+      "state": {
+        "index": 27,
+        "level": 92,
+        "t": 69,
+        "z": 1182524763566801,
+        "b": 65
+      },
+      "prefix_odds": 61,
+      "max_allowed": 2,
+      "branches": [
+        {
+          "suffix": {
+            "word": "110101",
+            "V": 101,
+            "d": 2,
+            "k": 2
+          },
+          "endpoint": 934340553929323,
+          "max_prefix_odds": 2
+        },
+        {
+          "suffix": {
+            "word": "1110001",
+            "V": 121,
+            "d": 3,
+            "k": 1
+          },
+          "endpoint": 1868681107858647,
+          "max_prefix_odds": 0
+        },
+        {
+          "suffix": {
+            "word": "10010101",
+            "V": 323,
+            "d": 4,
+            "k": 0
+          },
+          "endpoint": 3737362215717293,
+          "max_prefix_odds": 1
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 73,
+        "level": 90,
+        "t": 70,
+        "z": 15964084308047168,
+        "b": 66
+      },
+      "prefix_odds": 62,
+      "max_allowed": 3,
+      "branches": [
+        {
+          "suffix": {
+            "word": "101101",
+            "V": 119,
+            "d": 2,
+            "k": 2
+          },
+          "endpoint": 12613597477963193,
+          "max_prefix_odds": 3
+        },
+        {
+          "suffix": {
+            "word": "1100101",
+            "V": 157,
+            "d": 3,
+            "k": 1
+          },
+          "endpoint": 25227194955926387,
+          "max_prefix_odds": 1
+        },
+        {
+          "suffix": {
+            "word": "10001101",
+            "V": 395,
+            "d": 4,
+            "k": 0
+          },
+          "endpoint": 50454389911852773,
+          "max_prefix_odds": 0
+        }
+      ]
+    },
+    {
+      "state": {
+        "index": 210,
+        "level": 86,
+        "t": 66,
+        "z": 3153399369452458,
+        "b": 58
+      },
+      "prefix_odds": 54,
+      "max_allowed": 8,
+      "branches": [
+        {
+          "suffix": {
+            "word": "1101100000",
+            "V": 85,
+            "d": 6,
+            "k": 2
+          },
+          "endpoint": 39865196966905147,
+          "max_prefix_odds": 8
+        },
+        {
+          "suffix": {
+            "word": "11100100000",
+            "V": 89,
+            "d": 7,
+            "k": 1
+          },
+          "endpoint": 79730393933810295,
+          "max_prefix_odds": 0
+        },
+        {
+          "suffix": {
+            "word": "100101100000",
+            "V": 259,
+            "d": 8,
+            "k": 0
+          },
+          "endpoint": 159460787867620589,
+          "max_prefix_odds": 7
+        }
+      ]
+    }
+  ],
+  "v9_unchanged": true,
+  "checkpoint_unchanged": true
+}
