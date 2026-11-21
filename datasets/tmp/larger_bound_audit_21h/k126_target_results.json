@@ -1,0 +1,10 @@
+{
+  "queries": 42,
+  "nodes": 30800,
+  "elementary_C61_skipped": 21,
+  "statuses": {
+    "certified_witness": 0,
+    "empty_layer_exact": 42,
+    "budget_pending": 0
+  }
+}

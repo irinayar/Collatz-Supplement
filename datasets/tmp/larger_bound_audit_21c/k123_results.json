@@ -1,0 +1,19 @@
+{
+  "source": "tmp\\height_filter_survivors\\survivor_representatives.json",
+  "source_sha256": "0f80a7c4f71d9c27cccbd3f4e3d0c4aea5940dd9bd8455efadedb2e966b67f53",
+  "selection": "larger historical start18839651253368551 only; fresh depths33..96 until first00 or descent; earlier query results retained",
+  "selected_count": 1,
+  "queries": 22,
+  "witnesses": 0,
+  "empty": 22,
+  "budget_pending": false,
+  "nodes": 6209,
+  "boundary": {
+    "depth": 55,
+    "x": 2119102831208395496,
+    "word": "1110111011011101101110110111011011011101110110101111100",
+    "reason": "00"
+  },
+  "prior_queries_skipped": 0,
+  "distinct_witness_sources": 0
+}

@@ -1,0 +1,21 @@
+{
+  "H": 3670013,
+  "odd_starts_excluding1": 131072,
+  "Q": "2305843009213693952/1840049047529878113",
+  "new_range_maximizers": [
+    3519159
+  ],
+  "global_maximizer": 993,
+  "first_new_start": 3407871,
+  "cumulative_odd_starts_excluding1": 1835006,
+  "parent_counts_sha256": "a6ea46efb781c9b2342d6a9b00852aa9bdc8f7396eee4765e7498b4e6913d00d",
+  "r_max": 1979727,
+  "q": [
+    11010046,
+    11010045
+  ],
+  "max_steps": 366,
+  "max_odd_state": 117539270981,
+  "seconds": 8.514999999999418,
+  "counts_sha256": "f809690e086e3b3dbd949bfb8bfa154ce2a8223e1e0c09de4b359e651eaf271c"
+}

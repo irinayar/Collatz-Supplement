@@ -1,0 +1,8 @@
+{
+  "independent_completed_queries": 61,
+  "independent_states": 31399,
+  "remaining_queries": 2,
+  "defect_parameter_pairs": 216,
+  "two_block_cylinders": 36,
+  "exact_prefix_checks": 528
+}

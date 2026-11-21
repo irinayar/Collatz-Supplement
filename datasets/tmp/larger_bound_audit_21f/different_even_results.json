@@ -1,0 +1,11 @@
+{
+  "queries": 88,
+  "nodes": 28094,
+  "pending": false,
+  "statuses": {
+    "witness": 0,
+    "minimum_not_smaller": 0,
+    "empty_layer_exact": 88,
+    "budget_pending": 0
+  }
+}

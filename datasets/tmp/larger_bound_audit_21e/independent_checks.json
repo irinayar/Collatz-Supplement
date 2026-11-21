@@ -1,0 +1,10 @@
+{
+  "target_queries": 44,
+  "independent_states": 6241,
+  "all_minima_confirmed": true,
+  "cylinder_N_checked": [
+    1,
+    64
+  ],
+  "representatives_per_cylinder": 2
+}

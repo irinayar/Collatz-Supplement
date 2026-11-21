@@ -1,0 +1,67 @@
+{
+  "prefixes": 1103,
+  "feasible_extra_odd_layers": 565,
+  "examples": [
+    {
+      "n": 5,
+      "endpoint": 8,
+      "k": 0,
+      "r": 1,
+      "source_word": "1",
+      "m": 3,
+      "target_word": "11",
+      "certification_steps": 5
+    },
+    {
+      "n": 5,
+      "endpoint": 4,
+      "k": 1,
+      "r": 1,
+      "source_word": "10",
+      "m": 3,
+      "target_word": "110",
+      "certification_steps": 5
+    },
+    {
+      "n": 11,
+      "endpoint": 17,
+      "k": 0,
+      "r": 1,
+      "source_word": "1",
+      "m": 7,
+      "target_word": "11",
+      "certification_steps": 11
+    },
+    {
+      "n": 11,
+      "endpoint": 26,
+      "k": 0,
+      "r": 2,
+      "source_word": "11",
+      "m": 7,
+      "target_word": "111",
+      "certification_steps": 11
+    },
+    {
+      "n": 11,
+      "endpoint": 13,
+      "k": 1,
+      "r": 2,
+      "source_word": "110",
+      "m": 7,
+      "target_word": "1110",
+      "certification_steps": 11
+    },
+    {
+      "n": 11,
+      "endpoint": 20,
+      "k": 1,
+      "r": 3,
+      "source_word": "1101",
+      "m": 7,
+      "target_word": "11101",
+      "certification_steps": 11
+    }
+  ],
+  "cache": 4624
+}

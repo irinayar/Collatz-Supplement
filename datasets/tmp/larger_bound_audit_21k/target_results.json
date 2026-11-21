@@ -1,0 +1,11 @@
+{
+  "patterns": 21,
+  "residue_rows": 189,
+  "nodes": 46490,
+  "statuses": {
+    "covered_C61": 63,
+    "empty_by_previous_layer": 63,
+    "empty_layer_exact": 42,
+    "known_C110": 21
+  }
+}

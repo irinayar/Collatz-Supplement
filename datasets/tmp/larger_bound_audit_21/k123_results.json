@@ -1,0 +1,12 @@
+{
+  "source": "tmp\\height_filter_survivors\\survivor_representatives.json",
+  "source_sha256": "0f80a7c4f71d9c27cccbd3f4e3d0c4aea5940dd9bd8455efadedb2e966b67f53",
+  "selection": "first16 saved rows in each j=3,4,5; depths j+8..j+16 before first descent",
+  "selected_count": 48,
+  "queries": 432,
+  "witnesses": 85,
+  "empty": 347,
+  "budget_pending": false,
+  "nodes": 2155,
+  "distinct_witness_sources": 14
+}

@@ -1,0 +1,13 @@
+{
+  "patterns": 21,
+  "rows": 1701,
+  "nodes": 50001,
+  "statuses": {
+    "certified_witness": 14,
+    "covered_C110": 189,
+    "covered_C61": 567,
+    "empty_layer_exact": 295,
+    "pending": 636
+  },
+  "nonancestor_witnesses": 7
+}

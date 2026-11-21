@@ -1,0 +1,10 @@
+{
+  "target_queries": 44,
+  "independent_states": 9374,
+  "minimum_origins": [
+    50239070008982802
+  ],
+  "cylinders": 64,
+  "prefix_checks": 3127,
+  "all_checks_passed": true
+}

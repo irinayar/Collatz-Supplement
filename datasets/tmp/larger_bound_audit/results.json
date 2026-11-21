@@ -1,0 +1,17 @@
+{
+  "H": 262141,
+  "odd_starts_excluding1": 131070,
+  "Q": "2305843009213693952/1840049047529878113",
+  "maximizers": [
+    993
+  ],
+  "r_max": 141408,
+  "q": [
+    786430,
+    786429
+  ],
+  "max_steps": 278,
+  "max_odd_state": 5734125917,
+  "seconds": 11.343999999997322,
+  "counts_sha256": "e5aa7a7c01273f62cda40f743ef607fc78d5dc67e0dddb54de5edb56b126549e"
+}

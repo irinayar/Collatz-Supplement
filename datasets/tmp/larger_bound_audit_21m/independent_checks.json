@@ -1,0 +1,18 @@
+{
+  "empty_checked": 295,
+  "independent_states": 31855,
+  "witnesses_checked": 14,
+  "normalized_pair": [
+    "111101",
+    "111101111100"
+  ],
+  "family": {
+    "n0": 303,
+    "P": 5184,
+    "m0": 239,
+    "Q": 4096
+  },
+  "single_finite_ledger_containments": [],
+  "full_CRT_deduplication_complete": false,
+  "ChatGPT_example_convergence_steps": 92
+}

@@ -1,0 +1,12 @@
+{
+  "potential": "517/31",
+  "maxima": [
+    "7",
+    "179/17",
+    "517/31"
+  ],
+  "block_parameter_pairs": 120,
+  "cylinders": 36,
+  "exact_prefix_checks": 432,
+  "cap_at15": "128/93"
+}

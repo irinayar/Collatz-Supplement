@@ -1,0 +1,17 @@
+{
+  "completed": 2,
+  "nodes_direct": 9009,
+  "nodes_independent": 5988,
+  "remaining": 0,
+  "answers": [
+    {
+      "n": 15751637249157231,
+      "status": "empty_layer_exact"
+    },
+    {
+      "n": 33766035758639215,
+      "status": "minimum_not_smaller",
+      "m": 45021381011518953
+    }
+  ]
+}

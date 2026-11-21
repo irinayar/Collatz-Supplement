@@ -15,6 +15,10 @@
 | `allodd_run_dvd`, `allodd_run_le` | `j` consecutive odd steps from `n` force `2^j | n+1` and `2^j <= n+1` |
 | `Tit_add` | `T^(m+n) x = T^n (T^m x)` |
 | `defect_rec`, `defect_dvd`, `block_defect_collatz` | repeated-block defect: `B^k | D` for a repeated block |
+| `origin_slope_lt`, `origin_smaller_of_product`, `separation_of_product_lt` (`CollatzSeparation.lean`) | slope lemma: from `2^(K+R) z = 3^R m + V`, `V > 0` follows `3^R m < 2^(K+R) z`; hence a target origin of profile `(k+dk, r+dr)` is below a source `n` when `2^(dk+dr) 2^(k+r) z < 3^(r+dr) n`; the `G < 3/2` separation criterion is the case `(0,1)` |
+| `separation_early_range` (`CollatzSeparation.lean`) | if `3^(r+1) < 2^r (x+3)` then every `(r+1)`-odd origin is below every `r`-odd origin, for every `k` (numerator envelope) |
+| `block_identity`, `block_absorb` (`CollatzSeparation.lean`) | block potential over the rationals: `d z/(a y) = (1+c/y)/(1+c/z)` for `z d = a y + B`, `c (a-d) = B`; and `(1+c/y)/(1+c/z) (1+C/z) <= 1 + C/y` for `0 < y <= z`, `0 < c <= C` (the absorption step of the expanding-block product barrier) |
+| `periodic_word_dvd` (`CollatzSeparation.lean`) | repeated-word divisibility: `2^e (D y - U) = p (D x - U)` with `p, D, U, y` odd implies `2^(e+1) | D x - U` |
 | `lemma_E`, `lemma_E_pos` (`LemmaE.lean`) | arithmetic core of the successor-count inequality: from `2^(r+k) x = 3^r m + V`, `V <= 2^k (3^r - 2^r)`, `2^(r+1+k) x = 3^(r+1) m' + V'`, `V' >= 3^(r+1) - 2^(r+1)` and `m >= 3 * 2^k - 4` follows `m' < m` (integers; natural-number version without subtraction) |
 
 Not formalized: the telescoping of the product bound over distinct odd states, the lower barrier on the odd-step count, the tradeoff theorem, the numerator dynamic programs, the numerator envelope for parity words, the finite enumerations behind the fixed-even-budget monotonicity statements and the density results.

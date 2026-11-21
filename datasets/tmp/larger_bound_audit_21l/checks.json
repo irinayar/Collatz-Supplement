@@ -1,0 +1,55 @@
+{
+  "patterns": 21,
+  "lift_rows": 567,
+  "minimum_simple_margin": 123,
+  "short_words_checked": 8190,
+  "ZIP_nine_minima": [
+    {
+      "t": 0,
+      "n": 61159,
+      "minimum": 54363
+    },
+    {
+      "t": 1,
+      "n": 126695,
+      "minimum": 112617
+    },
+    {
+      "t": 2,
+      "n": 192231,
+      "minimum": null
+    },
+    {
+      "t": 3,
+      "n": 257767,
+      "minimum": null
+    },
+    {
+      "t": 4,
+      "n": 323303,
+      "minimum": null
+    },
+    {
+      "t": 5,
+      "n": 388839,
+      "minimum": null
+    },
+    {
+      "t": 6,
+      "n": 454375,
+      "minimum": null
+    },
+    {
+      "t": 7,
+      "n": 519911,
+      "minimum": 462142
+    },
+    {
+      "t": 8,
+      "n": 585447,
+      "minimum": null
+    }
+  ],
+  "ZIP_inverse_states": 589,
+  "remaining_queries": 0
+}
