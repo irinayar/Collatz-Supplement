@@ -1,24 +1,28 @@
-﻿# Lean 4 formalization of elementary Collatz lemmas
+# Lean 4 formalization of the Collatz lemmas (11 modules)
 
-`CollatzElementary.lean` (Lean 4.35.0 with Mathlib). Imports only `Mathlib.Tactic.Ring`, `Linarith`, `Positivity`, `RingTheory.Coprime.Basic` and `RingTheory.Coprime.Lemmas` (`import Mathlib.Tactic` is much slower). Check with `./check_lean.sh CollatzElementary.lean` after setting `LEAN` (path of the lean executable) and `MATHLIB_PACKAGES` (directory containing the compiled `mathlib`, `batteries`, `aesop`, `Qq`, `plausible`, `LeanSearchClient`, `importGraph`, `proofwidgets` packages). Result: exit code 0, no `sorry`, no warnings; each theorem depends only on `propext`, `Classical.choice`, `Quot.sound`.
+Lean 4.35.0 with Mathlib (specific imports only; `import Mathlib.Tactic` is too slow for these checks). Every module compiles with exit code 0, no `sorry`,
+and every theorem depends only on `propext`, `Classical.choice`, `Quot.sound` (some on fewer; `#print axioms` lines are at the end of the files).
 
-| Lean theorem | Statement |
+Build everything from scratch in dependency order (about 4 minutes): `LEAN=/path/to/lean MATHLIB_PACKAGES=/path/to/.lake/packages ./build_all.sh`
+(oleans in `./build`, logs `build_<Module>.log`). A single module (earlier modules built first): `... ./build_all.sh CollatzCrossing`.
+`check_lean.sh` checks one file that imports only Mathlib (e.g. `CollatzSeparation.lean`).
+
+Dependency order: `CollatzElementary` -> {`CollatzSeparation`, `LemmaE`, `CollatzCrossing`, `CollatzPhase`} -> `CollatzFirstReturn` -> `CollatzExamples`;
+independent of Elementary: `CollatzConstants`, `CollatzRuns`, `CollatzCylinders`, `CollatzSpend`.
+
+| Module | Content |
 |---|---|
-| `T_growth`, `Tit_growth` | `2 (T x + 1) <= 3 (x + 1)`; `2^j (T^j x + 1) <= 3^j (x + 1)` |
-| `T_odd_mod3`, `T_odd`, `T_even` | an odd input maps to 2 mod 3; the two branches |
-| `T_collision` | `T x = T y`, `x != y` implies `{x, y} = {odd x, 3x+1}` |
-| `Tit_fibre_mult3` | `3 | y` and `T^j x = y` imply `x = 2^j y` |
-| `Tit_allodd`, `allodd_barrier` | `T^j(2^j t - 1) + 1 = 3^j t`; every `m < 2^j t - 1` has `T^j m < T^j(2^j t - 1)` |
-| `Tit_congr`, `Tit_gap` | equal parity bits of the first `L` steps imply `2^L | x - y`; distinct `x < y` differ by at least `2^L` |
-| `product_factor` | `(3x+1)^6 (x-1) < 729 x^6 (x+1)` for `x >= 2` |
-| `Tit_affine`, `Tit_lower` | `2^j T^j x = 3^a x + U`; `3^a x <= 2^j T^j x` |
-| `allodd_run_dvd`, `allodd_run_le` | `j` consecutive odd steps from `n` force `2^j | n+1` and `2^j <= n+1` |
-| `Tit_add` | `T^(m+n) x = T^n (T^m x)` |
-| `defect_rec`, `defect_dvd`, `block_defect_collatz` | repeated-block defect: `B^k | D` for a repeated block |
-| `origin_slope_lt`, `origin_smaller_of_product`, `separation_of_product_lt` (`CollatzSeparation.lean`) | slope lemma: from `2^(K+R) z = 3^R m + V`, `V > 0` follows `3^R m < 2^(K+R) z`; hence a target origin of profile `(k+dk, r+dr)` is below a source `n` when `2^(dk+dr) 2^(k+r) z < 3^(r+dr) n`; the `G < 3/2` separation criterion is the case `(0,1)` |
-| `separation_early_range` (`CollatzSeparation.lean`) | if `3^(r+1) < 2^r (x+3)` then every `(r+1)`-odd origin is below every `r`-odd origin, for every `k` (numerator envelope) |
-| `block_identity`, `block_absorb` (`CollatzSeparation.lean`) | block potential over the rationals: `d z/(a y) = (1+c/y)/(1+c/z)` for `z d = a y + B`, `c (a-d) = B`; and `(1+c/y)/(1+c/z) (1+C/z) <= 1 + C/y` for `0 < y <= z`, `0 < c <= C` (the absorption step of the expanding-block product barrier) |
-| `periodic_word_dvd` (`CollatzSeparation.lean`) | repeated-word divisibility: `2^e (D y - U) = p (D x - U)` with `p, D, U, y` odd implies `2^(e+1) | D x - U` |
-| `lemma_E`, `lemma_E_pos` (`LemmaE.lean`) | arithmetic core of the successor-count inequality: from `2^(r+k) x = 3^r m + V`, `V <= 2^k (3^r - 2^r)`, `2^(r+1+k) x = 3^(r+1) m' + V'`, `V' >= 3^(r+1) - 2^(r+1)` and `m >= 3 * 2^k - 4` follows `m' < m` (integers; natural-number version without subtraction) |
+| `CollatzElementary` | `T`, `Tit`, `oddc`, `numr`; growth bounds, `T_collision`, fibres, all-odd barrier, repeat rigidity (`Tit_congr`, `Tit_gap`), `product_factor`, `Tit_affine`, `Tit_add`, block defect divisibility |
+| `CollatzSeparation` | origin slope / separation lemmas, `block_identity`, `block_absorb`, `periodic_word_dvd` |
+| `LemmaE` | arithmetic core of the successor-count inequality (`lemma_E`, `lemma_E_pos`) |
+| `CollatzCrossing` | horizon lemma `crossing_descent`: if the coefficient has not crossed before step `j`, crosses at `j`, and `a 2^j < 3n(2^j - 3^a)`, then `T^j n < n`; `bernoulli_nat`, `state_ge`, `correction_bound` (integer form of `G <= (1+1/(3n))^a`) |
+| `CollatzPhase` | phase `Q_i = U_i/3^(a_i)`: `phase_affine`, `phase_step_odd/even`, `phase_mono`, correction product `phase_prod`, `rho_formula`, `rho_nonpos_Q_lt_five`, signed flux `flux_step/flux_sum`, `numr_not_dvd_three` |
+| `CollatzRuns` | maximal runs: `xr`, exact correction `run_correction`, `run_output`, `run_b_le`, signed budget `psi_bound` (`a psi <= [2-3z]_+`), `psi_single`, `expanding_growth` (`b/a >= 9/8`), `expanding_psi` (`psi <= 6(1/a-1/b)`), `Kcoef_antitone`, `block_bound` |
+| `CollatzCylinders` | one power of two in a window of ratio < 2, `residue_spacing`, `cylinder_odd_arrival`, `cylinder_unique_mod`, `first_exponent_one`, explicit blocks `blockA1`/`blockA2`, polynomial certificates, mixed pairs `pair_du`/`pair_ud`/`pair_expands` |
+| `CollatzSpend` | `span_telescope`, `span_budget`, `weighted_sum_le`, `split_identity`, `split_nonneg`, `window_count`, `central_mass_bound` |
+| `CollatzFirstReturn` | `Genuine n u j`; `genuine_unique_length`, `genuine_states_distinct`, `genuine_source_odd`, `genuine_source_mod4`, `genuine_of_bounds` |
+| `CollatzConstants` | every exact numeric comparison (`norm_num`): `3^99 < 2^160`, `3000^22 < 2^256`, `4*193^39 < 200^39`, the 21/125 allocations, `159c < T < 160c`, the mixed-sector inequality, the K3/K4/K(e=3)/K(two shorts) coefficients, the K179 constants, the exponential majorant `< 367/250`, and the real-log certificate `log(47/32) > 189480/493039` |
+| `CollatzExamples` | by `decide +kernel`: the 80-bit nonempty-core return is a genuine first return for all 5321822482652343082370 odd thresholds in its interval with phase `> 13`; the g = 46 high-phase witness (phase `> 11`); the n = 55 control |
 
-Not formalized: the telescoping of the product bound over distinct odd states, the lower barrier on the odd-step count, the tradeoff theorem, the numerator dynamic programs, the numerator envelope for parity words, the finite enumerations behind the fixed-even-budget monotonicity statements and the density results.
+Not formalized: the canonical packing computation (7.9 million groups; external exact certificate), the finite bases, the profile-count theorems, and the unproved aggregate bounds.
+The exact and numerical counterparts are in `../verifiers`.
