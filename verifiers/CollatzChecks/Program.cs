@@ -18,9 +18,11 @@ class Program {
       case "lastexp": LastExp.Run(rest); break;          // lastexp n1 ...      : last exponent / arrival residue census
       case "collision": Collision.Run(rest); break;      // collision n1 ...    : same-depth same-anchor collision cells
       case "stopdp": StopDp.Run(rest); break;            // stopdp t1 t2 ...    : stopping-code weights S_t and word counts at n=3*2^70+3
+      case "k180tree": K180Tree.Run(rest); break;        // k180tree N          : the six-letter residue tree of the balanced four-block words to depth N (N=8: 1,679,616 leaves)
+      case "k181": K181Checks.Run(rest); break;          // k181 n1 ...        : packet identities (telescoping, kappa W_U identity) and criteria (14),(15) on all runs
       default: Console.WriteLine(Usage()); return 1;
     }
     return 0;
   }
-  static string Usage() => "checks: qgscan N | qgrecords N | tail n.. | allsource n.. | runs174 n.. | runs176 n.. | toll n.. | census range N / single n.. | relaxedcore n QMIN | lastexp n.. | collision n.. | stopdp t..";
+  static string Usage() => "checks: qgscan N | qgrecords N | tail n.. | allsource n.. | runs174 n.. | runs176 n.. | toll n.. | census range N / single n.. | relaxedcore n QMIN | lastexp n.. | collision n.. | stopdp t.. | k180tree N | k181 n..";
 }

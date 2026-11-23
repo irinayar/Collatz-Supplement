@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "archive_sha256": "e9188fe9584e498aa51d5bdb9c5388d83b678962eb52f39940c5e0855d65169c",
+  "results": [
+    {
+      "script": "verify_six_note_homogeneous_audit.py",
+      "newline_normalized_identical": true,
+      "sha256": "3d0309726af105cb09ddead4665c40f3642c8c04a1376d6370156ce1b100e054"
+    },
+    {
+      "script": "verify_exact_signed_compensation.py",
+      "newline_normalized_identical": true,
+      "sha256": "ac2160fc07a9f2514585ed508bf90ac700468b4a6177c227d8209727f67365a3"
+    },
+    {
+      "script": "verify_source_cylinder_carleson.py",
+      "newline_normalized_identical": true,
+      "sha256": "4cf292dd14ba607c6d31763cd3858dc9ada1f9ee271696b0ebbf2cea7e057fba"
+    }
+  ],
+  "extracted": [
+    {
+      "member": "aggregate_compensation_work/exact_compensation_profile_support.py",
+      "sha256": "42dd19b04a9394e7fb6153bddfecb426a3e68fa240db35a4cf0bfad0c6f7288d"
+    },
+    {
+      "member": "aggregate_compensation_work/exact_compensation_seeds.json",
+      "sha256": "58ca2237f0792f95c200b068776cf324fe662e0f775e3d8231b56f3b4a41a6ef"
+    },
+    {
+      "member": "aggregate_compensation_work/exact_signed_compensation_certificate.json",
+      "sha256": "b11e4653ae34f2a29294d10ed2cc0a63a50d78f82da36f5c152c3921616a4c55"
+    },
+    {
+      "member": "aggregate_compensation_work/six_note_homogeneous_audit_certificate.json",
+      "sha256": "87c2f8b021cb4a27655d497fcea25814fbaf7aad1234d0933a716e803b053c6b"
+    },
+    {
+      "member": "aggregate_compensation_work/six_note_homogeneous_audit_provenance.json",
+      "sha256": "a3a851ca09849c04f03ccb3430fe4a5bc1293ad95a24ab3b9d571cd30349b413"
+    },
+    {
+      "member": "aggregate_compensation_work/source_cylinder_carleson_certificate.json",
+      "sha256": "b608cd9d575203c7a816734efdbb79f9d7dd5c4d6059de3b4da3a21bca217b5c"
+    },
+    {
+      "member": "aggregate_compensation_work/source_cylinder_controls.json",
+      "sha256": "d67e0fcd86898a392ff1746873f28d8c55bf349497d5b7e7bef7eab0d60e9c3e"
+    },
+    {
+      "member": "aggregate_compensation_work/verify_exact_signed_compensation.py",
+      "sha256": "3dbbed392f11af4a029430c7ee15d5052f4745b9c756dbc8095740c759f24a12"
+    },
+    {
+      "member": "aggregate_compensation_work/verify_six_note_homogeneous_audit.py",
+      "sha256": "9770d4cf5471f230d739f448f8d999c6d629379f33731453fdc359fb97fb63c4"
+    },
+    {
+      "member": "aggregate_compensation_work/verify_source_cylinder_carleson.py",
+      "sha256": "f06f8b2d33a64cd76fabd7e287b2a3ecbb6c9674b1c9e93d73742c64bd577001"
+    }
+  ],
+  "seconds": 21.81078004837036
+}
