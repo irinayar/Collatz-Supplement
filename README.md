@@ -6,10 +6,10 @@ Supplementary material for the Collatz manuscripts (version v8 onward) by Irina 
 |---|---|
 | `datasets/` | Rule inventories, CRT inventories, family certificates, result files (JSON/log), with the original `tmp/...` structure |
 | `scripts/ledger_scripts.zip` | Python accounting and checking scripts for the ledger (unzip into `datasets/` so `tmp/...` paths resolve) |
-| `scripts/chatgpt_python_scripts.zip` | Independent Python check scripts written by ChatGPT, unchanged (368 files, grouped by source attachment) |
-| `scripts/claude_csharp_programs.zip` | Check programs written by Claude (C#, 233 files) with `template.csproj` |
+| `scripts/chatgpt_python_scripts.zip` | Independent Python check scripts written by ChatGPT, unchanged (382 files, grouped by source attachment) |
+| `scripts/claude_csharp_programs.zip` | Check programs written by Claude (C#, 243 files) with `template.csproj` |
 | `lean/` | Lean 4 formalization (11 modules: elementary lemmas, first-crossing horizon lemma, phase/run/cylinder identities, exact constants, explicit examples) with build script and README |
-| `verifiers/` | PowerShell exact verifiers and a C# suite of exhaustive scans of the first-return band, with README |
+| `verifiers/` | PowerShell exact verifiers and a C# suite of exhaustive scans of the first-return band, with README (section 5 describes the K182-K190 Python checkers and certificates, which live in `datasets/` and `scripts/ledger_scripts.zip`) |
 | `REPRODUCE.md` | How to verify hashes and rerun the checks |
 | `MANIFEST_SHA256.txt` | SHA-256 of every file except itself |
 

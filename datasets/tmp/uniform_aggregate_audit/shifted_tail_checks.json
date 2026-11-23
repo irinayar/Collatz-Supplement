@@ -1,0 +1,363 @@
+{
+  "status": "PASS",
+  "shifted_coefficient": "59652096/6985",
+  "coefficient_below_8600": true,
+  "analytic_signed_tail": "8600*2^(-K) at s>=ceil(21*m/22)+K, n>=2^256",
+  "K28": "1075/33554432",
+  "old_K16": "17/327680",
+  "improved_margin": "3329/167772160",
+  "examples": [
+    {
+      "m": 72,
+      "old": 88,
+      "new": 88,
+      "removed_extra_lengths": 0
+    },
+    {
+      "m": 128,
+      "old": 144,
+      "new": 144,
+      "removed_extra_lengths": 0
+    },
+    {
+      "m": 257,
+      "old": 273,
+      "new": 273,
+      "removed_extra_lengths": 0
+    },
+    {
+      "m": 285,
+      "old": 301,
+      "new": 301,
+      "removed_extra_lengths": 0
+    },
+    {
+      "m": 286,
+      "old": 302,
+      "new": 301,
+      "removed_extra_lengths": 1
+    },
+    {
+      "m": 512,
+      "old": 528,
+      "new": 517,
+      "removed_extra_lengths": 11
+    },
+    {
+      "m": 1000,
+      "old": 1016,
+      "new": 983,
+      "removed_extra_lengths": 33
+    },
+    {
+      "m": 4096,
+      "old": 4112,
+      "new": 3938,
+      "removed_extra_lengths": 174
+    }
+  ],
+  "finite_max": "327241787595818868928/97974408358291394475",
+  "profiles": 32,
+  "runs": 669,
+  "core_occurrences": 57,
+  "newly_paid_saved_occurrences": 0,
+  "rows": [
+    {
+      "n": "55",
+      "u": "63",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 22,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "55",
+      "u": "71",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 22,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4095",
+      "u": "4575",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 28,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4095",
+      "u": "5147",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 28,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "22331",
+      "u": "23207",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 31,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "22331",
+      "u": "25407",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 31,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "22331",
+      "u": "28583",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 31,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "22331",
+      "u": "28975",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 31,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "72687",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "76575",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "80671",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "68711",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "81435",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "65535",
+      "u": "85791",
+      "high_floor": false,
+      "core_runs": 0,
+      "cutoff": 32,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "7065229345456483386621",
+      "u": "9420305793941977848827",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 89,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "896050719745667194864893",
+      "u": "1194734292994222926486523",
+      "high_floor": true,
+      "core_runs": 9,
+      "cutoff": 96,
+      "tail": "0",
+      "signed_residual_sign": 1
+    },
+    {
+      "n": "95229043882205379881039797",
+      "u": "126707200668942160097017595",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 103,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "95229043882205379881039797",
+      "u": "126707200668942160097017599",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 103,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "1049728399491224013995397943",
+      "u": "1244122547545154386957508671",
+      "high_floor": true,
+      "core_runs": 6,
+      "cutoff": 106,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "1049728399491224013995397943",
+      "u": "1399637865988298685327197255",
+      "high_floor": true,
+      "core_runs": 7,
+      "cutoff": 106,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "26645514422485486121914504906678081",
+      "u": "35527352563313981495886006542237435",
+      "high_floor": true,
+      "core_runs": 11,
+      "cutoff": 131,
+      "tail": "0",
+      "signed_residual_sign": 1
+    },
+    {
+      "n": "26645514422485486121914504906678081",
+      "u": "35527352563313981495886006542237439",
+      "high_floor": true,
+      "core_runs": 1,
+      "cutoff": 131,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "1024309076621018207576894571144085503",
+      "u": "1064583115276468877212143325500476519",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 136,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "1024309076621018207576894571144085503",
+      "u": "1261728136623963113732910608000564763",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 136,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "1024309076621018207576894571144085503",
+      "u": "1329227995784915872903807060280430367",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 136,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "20161475555131501379736015843827745030199",
+      "u": "21778071482940061661655974875633165533247",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 150,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "20161475555131501379736015843827745030199",
+      "u": "24500330418307569369362971735087311224903",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 150,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4899238559896954835275851850050142042347323",
+      "u": "5091868038290777069170487949425360033045159",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 158,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4899238559896954835275851850050142042347323",
+      "u": "5575186299632655785383929568162090376520511",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 158,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4899238559896954835275851850050142042347323",
+      "u": "6272084587086737758556920764182351673585575",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 158,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4899238559896954835275851850050142042347323",
+      "u": "6357656297771383287706849151302019416355119",
+      "high_floor": true,
+      "core_runs": 0,
+      "cutoff": 158,
+      "tail": "0",
+      "signed_residual_sign": -1
+    },
+    {
+      "n": "4959427354258234597163547897508548974738169316605",
+      "u": "6612569805677646129551397196678065299650892422139",
+      "high_floor": true,
+      "core_runs": 23,
+      "cutoff": 178,
+      "tail": "0",
+      "signed_residual_sign": 1
+    }
+  ],
+  "short_type_lattice": {
+    "s": 2,
+    "e": 2,
+    "residue": 11,
+    "modulus": 16,
+    "octave_candidates": 196765270119568550570,
+    "reciprocal_majorant_capacity_lower": "196765270119568550570/9444732965739290427393"
+  },
+  "scope": "No uniform shorter-run aggregate bound; no new witness or density claim."
+}

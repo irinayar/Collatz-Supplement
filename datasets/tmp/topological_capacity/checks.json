@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "prefix_partition_checks": 550,
+  "finite_set_metric_checks": 3,
+  "binary_mass_counterexample_depths": 25,
+  "saved_singleton_positive_caps": 6,
+  "fresh_checkpoint_unchanged": true,
+  "seconds": 0.0159999999741558,
+  "scope": "Finite algebra/partition tests and exact countermodels; no global tightness or zero-limit theorem proved."
+}

@@ -34,3 +34,21 @@ observations, not theorems, and none is used as a bound in the reductions.
 - `scripts/ledger_scripts.zip` contains `tmp/compensation_packet_audit/input/verify_exact_signed_compensation.py`, `verify_source_cylinder_carleson.py`, `exact_compensation_profile_support.py` (unzip into `datasets/`; run each from its folder, optionally with `--output result.json`) and the reproduction driver `tmp/compensation_packet_check.py` (its input archive of the original packet is not published; the driver documents the comparison method).
 - Independent checks written separately: `verifiers/CollatzChecks` subcommand `k181 n...` (all runs of all genuine returns: `f <= delta`, telescoping, the exact identity `kappa W_U = R_U + D_F + sum_off f`, criterion (14) for positive credit, inequality (15) for single-input runs) and `verifiers/powershell/verify_k181_constants.ps1` (exact constants `2797/200`, `73485/3904`, `3000/2797`, `8850/170617`, `1837125/1364936`, `Y* = 116073/3904000`, `4899/3904`).
 - Not published: the six-note homogeneous audit (its provenance names internal review files) and the chronological signed-cover certificates of that audit. The unrestricted targets `Z <= 116073/3904000` and its relaxed form are not proved.
+
+## 5. K182-K190 checks and certificates (aggregate tail, short-run occupation, source counts, prefix capacities, singleton charge and phase caps, occurrence budget)
+- Uniform long-run aggregate tail (K182/K183): `datasets/tmp/uniform_aggregate_audit/input/uniform_long_run_tail_certificate.json` and `endpoint_potential_obstruction_certificate.json` are the exact certificates of the two standalone verifiers `tmp/uniform_aggregate_audit/input/verify_uniform_long_run_tail.py` and `verify_endpoint_potential_obstruction.py` (in `scripts/ledger_scripts.zip`; unzip into `datasets/`, run each with `--output result.json` and compare with the certificate after newline normalization). `tmp/uniform_aggregate_audit/shifted_tail_check.py` writes `shifted_tail_checks.json` (the shifted-cutoff count rows and the exact maximum).
+- Finite exact checks of the later notes, each a standalone Python checker `tmp/<name>/check.py` (standard library only; they import the exact profile replay `tmp/compensation_packet_audit/input/exact_compensation_profile_support.py` and the guard prefix of `tmp/k2_overlap/audit.py`, both in the same archive) with the result file `tmp/<name>/checks.json`:
+
+| Folder | Note | Content |
+|---|---|---|
+| `short_run_occupation` | K184 | exact R-charge and short-run occupation on the saved profiles |
+| `short_source_counts` | K185 | exact source counts for two and three phase-eligible core (2,2) occurrences |
+| `shared_prefix_counts` | K186 | shared-prefix capacities and the return-height horizon |
+| `singleton_charge_bounds` | K187 | phase potential with last-run overshoot on the saved singleton survivors |
+| `unresolved_phase_caps` | K188 | prefix-only eventual-phase caps, including the unresolved source `u = 2^256 - 1` |
+| `topological_capacity` | K189 | prefix-partition and refinement checks on finite source fibres, the symmetric-difference metric, the binary-mass countermodel (reads `unresolved_phase_caps/checks.json`) |
+| `occurrence_budget` | K190 | direct charge bound `gamma*b` and the necessary-cost filter |
+
+  Run order (each reads earlier result files): `short_source_counts`, `shared_prefix_counts`, `singleton_charge_bounds`, `unresolved_phase_caps`, `topological_capacity`, `occurrence_budget`; run from `datasets/`: `python tmp/<name>/check.py`. The checkers carry hardware-limit preambles (1 GiB, 120 s).
+- Independent C# checks of some of these statements are in `scripts/claude_csharp_programs.zip` (for example `k186_horizon_check`, `k187_potential_check`, `k188_singleton_cap_check`, `k190_direct_charge_check`).
+- All of these are finite exact computations on saved or constructed sources; they are not proofs of the uniform aggregate bound, which remains open. Internal audit reports and note-level provenance are not published.
