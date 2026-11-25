@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "scope": "Small-band first-gate and credit controls; no late-core or uniform aggregate claim.",
+  "bands": [
+    {
+      "n": 10697,
+      "H": 14262,
+      "completed": 273,
+      "proper_first_run_gates": 1,
+      "certified_next_R_payment_segments": 0
+    },
+    {
+      "n": 21395,
+      "H": 28526,
+      "completed": 548,
+      "proper_first_run_gates": 0,
+      "certified_next_R_payment_segments": 0
+    },
+    {
+      "n": 42791,
+      "H": 57054,
+      "completed": 1079,
+      "proper_first_run_gates": 0,
+      "certified_next_R_payment_segments": 0
+    }
+  ],
+  "first_gate_spend_controls": 1,
+  "off_core_credit_controls": 19,
+  "examples": [
+    {
+      "n": 10697,
+      "u": 13503,
+      "g": 47,
+      "E": 73,
+      "y": 38029,
+      "phase": "144989665096308768302507/26588814358957503287787",
+      "ceiling": "9093128547/5721602450000",
+      "high_spent": "6943579845260325951570490238346884520097962365152180954775388229697054617111632816555795158060456913852855951114406380925520958482141857932551483562218632842620569183287159424/6105742858666840232819662939710407128532876489692418352824601163152978793010999097322574657498281895594364592633273375046564959426292558392102890059267624498280331259604464243425"
+    }
+  ]
+}

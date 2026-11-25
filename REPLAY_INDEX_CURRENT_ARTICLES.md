@@ -20,4 +20,18 @@ Exact-arithmetic and brute-force programs written while preparing the current Co
 | `monotonicity_dfs_k6_9_check`, `valuation_reduction_threshold_check` | Collatz II, minimum-origin monotonicity data and valuation reductions |
 | `crude_cycle_inequality_vs_2pow71_check`, `m86_early_meeting_scan`, `whitney_crossings_check` | Collatz, further finite observations |
 
-Not included: the large certificates of the K194 Bellman/moment result, the 18-profile histogram, the 1,900 small-band checks, the cap improvements of K195-K201, and the enumerations of the minimum-origin monotonicity through k = 19 and k = 28; their evidence is not yet packaged here and the articles label them accordingly.
+## Added: later finite claims (24 November 2026)
+
+Each C# program below that uses exact fractions must be compiled together with `replay_fraction_type.cs`. The path argument of the first two is the `datasets/tmp` folder (after cloning); `first_gate_1900_fixture_replay` takes `datasets/tmp/first_phase_gate`.
+
+| Program | Article section and data |
+|---|---|
+| `k194_moment_bellman_histogram_replay` | Collatz III, K194 moment certificate (3553 cells, 21621 branches), constant C64, phase and late-sector constants, run mass, population maxima, inverse-residue histogram; data `datasets/tmp/collatz_three_v4/` |
+| `k196_latecap_stopped_occurrence_replay` | Collatz III, 321 saved-prefix cap checks (120 improvements), 18 high-floor profiles, occurrence budget; data `datasets/tmp/compensation_packet_audit/`, `singleton_charge_bounds/`, `unresolved_phase_caps/`, `occurrence_budget/` |
+| `first_gate_1900_fixture_replay` | Collatz III, 1900 small-band profiles, 19 credit inequalities, high-floor suffix fixture; data `datasets/tmp/first_phase_gate/` |
+| `k166_screen_fibre_replay` (argument: `datasets/tmp/numerator_code_audit/audit.json`) | Collatz II, K166 screen (947 prefixes, 19 in the strip) and thirteen inverse fibres; data `datasets/tmp/joint_strip_fibre/` |
+| `arc292_exact_count_replay` | Collatz III, the bound of 292 sources at a unit gate |
+| `monotonicity_finite_proof_check` (argument 19), `monotonicity_packed_table_check_improved_threshold` (arguments k and table bits), `exact_max_G_and_range` (argument 1073741821) | Collatz II, strict monotonicity through k = 19 for all endpoints, through k = 28 for x >= 3, and the separation range to 2^30 - 3 |
+| `six_even_census_independent_check`, `six_even_placement_rules_check`, `seven_even_census_independent_check`, `six_seven_overlay_bounds_check` | Collatz, local six- and seven-even censuses and their overlay. Their large census data files are not stored in this repository |
+
+The Python checkers supplied for these claims are in `scripts/ledger_scripts.zip` under their `tmp/...` paths; several of them execute the resource-limit header of `tmp/k2_overlap/audit.py`. The C# programs reimplement the same algorithms on the same inputs: they check arithmetic and transcription, not the design of the arguments, and imported theorems (the uniform source count) are not re-proved. Not included: the uniform-complement producer certificate (only its reconstruction exists) and the local census data files.

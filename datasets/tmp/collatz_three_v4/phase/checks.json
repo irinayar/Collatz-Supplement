@@ -1,0 +1,62 @@
+{
+  "status": "exact certificate verified",
+  "scope": "all positive original-core occurrences whose complete run-ending prefix modulus is at most H-n; this includes some already-singleton exact height/phase cylinders",
+  "small_multiplier_tail": {
+    "lower_drift_coefficient": "50/3",
+    "upper_loss_coefficient": "105/16"
+  },
+  "supersolution": {
+    "sha256": "c3273a03d5e5108be6ff0f4c8d60effab46f40a02cee175d89082800b7c89d63",
+    "intervals": 3553,
+    "branches_checked": 21621,
+    "initial_cells": [
+      3551
+    ],
+    "initial_mgf_bound": "82262531839/10000000000",
+    "initial_mgf_simple_bound": "33/4",
+    "minimum_supersolution_margin_lower": "1/10000000",
+    "minimum_supersolution_margin_exceeds_reported": true,
+    "envelope_margin_lower": "24",
+    "envelope_margin_exceeds_reported": true
+  },
+  "run_mass": {
+    "masses_s_1_through_8": [
+      "0",
+      "1/12",
+      "37/432",
+      "319/5184",
+      "1205/31104",
+      "8407/373248",
+      "55573/4478976",
+      "178943/26873856"
+    ],
+    "tail_upper": "1/128",
+    "total_upper": "8563637/26873856",
+    "simple_upper": "8/25",
+    "R_mass": "1/12"
+  },
+  "constants": {
+    "physical_tilt": "200/143",
+    "positive_part_tangent_epsilon": "1/2000",
+    "tangent_exponential_lower_exceeds": "2000",
+    "phase_excess_simple_upper": "7/4000",
+    "all_positive_core_before_width_resolution_coarse_upper": "7/12500",
+    "all_positive_core_before_width_resolution_sharp_upper": "557/1000000",
+    "R_core_before_width_resolution_upper": "7/48000",
+    "old_short_core_constant": "6761/3904000",
+    "remaining_constant_if_partitioned_disjointly": "573309/488000000",
+    "first_late_excess_using_imported_canonical_count": "233780533697387848783846738578530187119279/1360345457110368011635407200764280342013018600",
+    "second_and_later_late_signed_allowance": "54574868297226451161980857248905415351224059717/54413818284414720465416288030571213680520744000000",
+    "simpler_second_and_later_late_signed_allowance": "1002/1000000"
+  },
+  "source_inequalities": {
+    "multiplier_error_upper": "1/55340232221128654847",
+    "multiplier_barrier": "1001/1000"
+  },
+  "unresolved": [
+    "runs completed after prefix modulus exceeds H-n",
+    "after the imported canonical count pays the first such positive uncovered core occurrence per profile: second and later such positive occurrences",
+    "their signed aggregate after all original negative core parts and off-core credits are retained"
+  ],
+  "elapsed_seconds_informational": 1.531
+}
