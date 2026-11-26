@@ -19,3 +19,14 @@ Each program was run once from these files before publication and reported no fa
 - direct7.sorted (30626137 bytes): `6ed87dea77fb3756c04be42da9ae36ca589e8945288dc7ed91f2fbe1b262d790`
 
 `data/residual_depth53_table.csv` was exported from that census computation; the interval certificate takes it as input.
+
+## Added later: even budgets 16 to 19
+
+| Program | Arguments | What it checks | Time, memory |
+|---|---|---|---|
+| `carry_budgets_16_17` | `15 16 17` | filtered equal-count displacement sets for the listed even budgets (bit-array reverse closure), with a replayed witness of maximal 3-adic valuation | seconds, under 1 GB |
+| `carry_budget_18` | none | budgets 17 and 18 with a second, more compact layout; replays a budget-19 witness for displacement 3^8 | seconds, about 1 GB |
+| `lift_seven_odd_steps` | none | an actual meeting behind seven odd steps (displacement 128) | seconds |
+| `lift_eight_odd_steps` | none | an actual meeting behind eight odd steps (displacement 256) | seconds |
+
+Budgets 8 to 15 are covered by `carry_displacements` above. Budgets up to 18 show no displacement divisible by 3^8, so the budget-19 witness shows that valuation 8 first occurs at 19. The full size of the budget-19 set is not checked by any program here.
