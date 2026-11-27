@@ -26,3 +26,9 @@ independent of Elementary: `CollatzConstants`, `CollatzRuns`, `CollatzCylinders`
 
 Not formalized: the canonical packing computation (7.9 million groups; external exact certificate), the finite bases, the profile-count theorems, and the unproved aggregate bounds.
 The exact and numerical counterparts are in `../verifiers`.
+
+## CollatzMeetings.lean (added 27 November 2026)
+
+A self-contained module using core Lean 4.35.0 only (no Mathlib); check it with `lean CollatzMeetings.lean` (a few seconds). No `sorry`, no `native_decide`, no added axioms; the `#print axioms` lines at the end show at most `propext` and `Quot.sound`.
+
+It proves that a finite check at the base values certifies a meeting family `T^k(n0 + N h) = T^l(m0 + M h)` with `0 < m < n` and fixed parity words for every `h`; applies this to 151 listed families (`all_families`); proves two families with the common partner `m = 717 + 729 h` at arbitrarily late source times, for every length of the intervening odd run (`delayed_short`, `delayed_long`); and records even padding and several integer comparisons. It does not show that every integer lies in a family, and it does not formalize any census, density or analytic bound.
